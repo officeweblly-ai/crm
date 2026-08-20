@@ -1,0 +1,288 @@
+- generic [ref=f131e2]:
+  - banner [ref=f131e3]:
+    - generic [ref=f131e4]: מסטיק · איפיון עיצוב לאישור
+    - heading [level=1] [ref=f131e5]:
+      - text: לילה
+      - emphasis [ref=f131e6]: ורוד
+      - text: .
+    - paragraph [ref=f131e7]: אתר בהיר שנפתח לרגעים כהים. הפינות שבהן קורה הקסם התלת-מימדי — ההירו, האוטומציות והתהליך — נכנסות לחשיכה, כי זוהר עובד רק על רקע כהה. כל השאר נשאר באור, נקי וקריא. הכהה במיעוט, בדיוק כמו שביקשת.
+  - generic [ref=f131e17]:
+    - heading "מה הבנתי מהרפרנסים" [level=2] [ref=f131e18]
+    - generic [ref=f131e19]:
+      - article [ref=f131e20]:
+        - heading "הריל של תהליך העבודה" [level=3] [ref=f131e21]
+        - paragraph [ref=f131e22]:
+          - text: רקע שחור, עיגולים ממוספרים עם הילה זוהרת, וקו מתעקל שמחבר ביניהם וזורם למטה. זה הדפוס שאני לוקח בדיוק ל
+          - strong [ref=f131e23]: סקשן התהליך
+          - text: .
+        - generic [ref=f131e24]: תהליך = סצנה כהה עם קו שמצייר את עצמו
+      - article [ref=f131e25]:
+        - heading "LeadFlow" [level=3] [ref=f131e26]
+        - paragraph [ref=f131e27]: רקע בהיר, כרטיסים שחורים, אקסנט מנטה, כותרות עבריות כבדות עם מילה צבועה באמצע. הניגודיות בין לבן לשחור עושה את העבודה.
+        - generic [ref=f131e28]: מנטה כצבע ״המערכת חיה״ + הדגשת מילה בכותרת
+      - article [ref=f131e29]:
+        - heading "Enigma · האתר שלך" [level=3] [ref=f131e30]
+        - paragraph [ref=f131e31]: הגרדיאנט ענבר→אלמוג→סגול על טקסט, וטיפוגרפיה גיאומטרית רחבה. זה נכס מיתוגי שלך — אני מחזיר אותו לשימוש.
+        - generic [ref=f131e32]: הגרדיאנט שלך = מספרים ודגשים בלבד, לא רקעים
+      - article [ref=f131e33]:
+        - heading "CoreShift" [level=3] [ref=f131e34]
+        - paragraph [ref=f131e35]: כרטיסים שצפים ומתארגנים, גריד ״למי זה מתאים״, ולוגואים של כלים שנכנסים למרכז. זה הדפוס של סקשן האינטגרציות.
+        - generic [ref=f131e36]: אינטגרציות = לוגואים אמיתיים שנכנסים למרכז
+  - generic [ref=f131e37]:
+    - heading "01 · פונט הכותרות — תבחר אחד" [level=2] [ref=f131e38]
+    - paragraph [ref=f131e39]:
+      - text: כל הדוגמאות למטה מוצגות בפונט האמיתי, לא בתמונה. הפונט המקורי שלך הוא
+      - strong [ref=f131e40]: FbCoherentiSans
+      - text: של פונטביט — הוא לא חופשי, וקבצי הפונט שמותקנים על digitalbrain.co.il מוגנים ברישיון. אם הרישיון בבעלותך, תשלח לי את הקבצים ואני מחליף בשתי שורות. עד אז — אלה החלופות.
+    - generic [ref=f131e41]:
+      - article [ref=f131e42]:
+        - generic [ref=f131e43]:
+          - generic [ref=f131e44]: מומלץ
+          - heading "Rubik" [level=3] [ref=f131e45]
+          - generic [ref=f131e46]: חופשי · Google Fonts · 5 משקלים בעברית
+        - generic [ref=f131e47]:
+          - generic [ref=f131e48]: מסטיק
+          - generic [ref=f131e49]: אוטומציה שמדביקה את העסק שלכם להצלחה
+          - generic [ref=f131e50]: ניהול לידים · צנרת מכירות · דוחות חיים · 0123456789
+        - paragraph [ref=f131e51]: גיאומטרי, רחב, פינות מרוככות במעט. הקרוב ביותר באופי ל-Coherenti מכל מה שחופשי. עובד מעולה בגדול מאוד.
+      - article [ref=f131e52]:
+        - generic [ref=f131e53]:
+          - heading "Heebo Black" [level=3] [ref=f131e54]
+          - generic [ref=f131e55]: חופשי · Google Fonts · משקל 900
+        - generic [ref=f131e56]:
+          - generic [ref=f131e57]: מסטיק
+          - generic [ref=f131e58]: אוטומציה שמדביקה את העסק שלכם להצלחה
+          - generic [ref=f131e59]: ניהול לידים · צנרת מכירות · דוחות חיים · 0123456789
+        - paragraph [ref=f131e60]: כבד ודחוס, אנרגיה של כרזה. פחות גיאומטרי מ-Rubik, יותר ״עיתונאי״. חזק בכותרות ענק, פחות אלגנטי בבינוני.
+      - article [ref=f131e61]:
+        - generic [ref=f131e62]:
+          - heading "Secular One" [level=3] [ref=f131e63]
+          - generic [ref=f131e64]: חופשי · Google Fonts · משקל אחד
+        - generic [ref=f131e65]:
+          - generic [ref=f131e66]: מסטיק
+          - generic [ref=f131e67]: אוטומציה שמדביקה את העסק שלכם להצלחה
+          - generic [ref=f131e68]: ניהול לידים · צנרת מכירות · דוחות חיים · 0123456789
+        - paragraph [ref=f131e69]: "אופי ישראלי מובהק, קצת שובב — מתכתב טוב עם המסטיק והרובוט. החיסרון: משקל אחד בלבד, אין גמישות."
+      - article [ref=f131e70]:
+        - generic [ref=f131e71]:
+          - heading "Suez One" [level=3] [ref=f131e72]
+          - generic [ref=f131e73]: חופשי · Google Fonts · משקל אחד
+        - generic [ref=f131e74]:
+          - generic [ref=f131e75]: מסטיק
+          - generic [ref=f131e76]: אוטומציה שמדביקה את העסק שלכם להצלחה
+          - generic [ref=f131e77]: ניהול לידים · צנרת מכירות · דוחות חיים · 0123456789
+        - paragraph [ref=f131e78]: עבה עם נגיעה של סריף — נותן רצינות ומשקל של מותג ותיק. פחות ״טק״, יותר ״מוסד״. בחירה נועזת.
+    - generic [ref=f131e79]:
+      - heading "ואם אתה רוצה את המקורי" [level=3] [ref=f131e80]
+      - generic [ref=f131e81]:
+        - generic [ref=f131e82]:
+          - generic [ref=f131e83]: FbCoherentiSans
+          - generic [ref=f131e84]: פונטביט · הפונט שהיה לך. צריך רישיון web.
+        - generic [ref=f131e85]:
+          - generic [ref=f131e86]: פלוני (Ploni)
+          - generic [ref=f131e87]: פונטף · 9 משקלים, הפונט הכי נפוץ בטק הישראלי.
+        - generic [ref=f131e88]:
+          - generic [ref=f131e89]: אקסיומה (Axioma)
+          - generic [ref=f131e90]: פונטימונים · גיאומטרי רחב, קרוב מאוד לכיוון.
+      - paragraph [ref=f131e91]:
+        - text: שלח קובץ
+        - code [ref=f131e92]: .woff2
+        - text: ואני מטמיע. עד אז האתר ירוץ על הבחירה החופשית שתסמן.
+  - generic [ref=f131e93]:
+    - heading "02 · פונט הטקסט" [level=2] [ref=f131e94]
+    - generic [ref=f131e95]:
+      - article [ref=f131e96]:
+        - generic [ref=f131e97]:
+          - generic [ref=f131e98]: מומלץ
+          - heading "Assistant" [level=3] [ref=f131e99]
+          - generic [ref=f131e100]: חופשי · 6 משקלים
+        - paragraph [ref=f131e102]: הטפסים, הוואטסאפ, היומן והדוחות — מסטיק מדביקה את כולם למערכת אחת חכמה שרצה לבד, בלי שאף פנייה תיפול בין הכיסאות.
+        - paragraph [ref=f131e103]: שקט, נקי, קריא מאוד בגדלים קטנים. לא מתחרה בכותרת. סטנדרט דה-פקטו לעברית באינטרנט.
+      - article [ref=f131e104]:
+        - generic [ref=f131e105]:
+          - heading "Alef" [level=3] [ref=f131e106]
+          - generic [ref=f131e107]: חופשי · 2 משקלים
+        - paragraph [ref=f131e109]: הטפסים, הוואטסאפ, היומן והדוחות — מסטיק מדביקה את כולם למערכת אחת חכמה שרצה לבד, בלי שאף פנייה תיפול בין הכיסאות.
+        - paragraph [ref=f131e110]: מעט יותר חם ואנושי, אותיות פתוחות. פחות משקלים — מגביל בממשקים צפופים.
+  - generic [ref=f131e111]:
+    - heading "03 · פלטת צבעים — תבחר אחת" [level=2] [ref=f131e112]
+    - article [ref=f131e113]:
+      - generic [ref=f131e114]:
+        - generic [ref=f131e115]: מומלץ
+        - heading "א · לילה ורוד" [level=3] [ref=f131e116]
+        - paragraph [ref=f131e117]: אינדיגו-שחור לרגעים הכהים, שמנת חמה לרגעים הבהירים, ורוד המסטיק כאקסנט יחיד, מנטה רק כסימן ״זה חי״.
+      - generic [ref=f131e118]:
+        - generic [ref=f131e119]:
+          - generic [ref=f131e120]: "#0E0A18"
+          - text: לילה
+        - generic [ref=f131e121]:
+          - generic [ref=f131e122]: "#160043"
+          - text: אינדיגו
+        - generic [ref=f131e123]:
+          - generic [ref=f131e124]: "#E23A5B"
+          - text: ורוד מסטיק
+        - generic [ref=f131e125]:
+          - generic [ref=f131e126]: "#2EE6C5"
+          - text: מנטה חיה
+        - generic [ref=f131e127]:
+          - generic [ref=f131e128]: "#FBF9F9"
+          - text: שמנת
+      - generic [ref=f131e129]:
+        - generic [ref=f131e130]: MASTIK
+        - generic [ref=f131e136]:
+          - generic [ref=f131e137]: בונים לעסק שלכם
+          - generic [ref=f131e138]: מערכת אחת שעושה
+          - generic [ref=f131e139]: את כל העבודה.
+    - article [ref=f131e152]:
+      - generic [ref=f131e153]:
+        - heading "ב · אור בלבד" [level=3] [ref=f131e154]
+        - paragraph [ref=f131e155]: כל האתר בהיר, בלי סצנות כהות. הזוהר מוחלף בצל רך ועומק. שקט יותר, פחות דרמטי — קרוב יותר למה שבנוי כרגע.
+      - generic [ref=f131e156]:
+        - generic [ref=f131e157]:
+          - generic [ref=f131e158]: "#FBF9F9"
+          - text: שמנת
+        - generic [ref=f131e159]:
+          - generic [ref=f131e160]: "#EAE6F0"
+          - text: לבנדר
+        - generic [ref=f131e161]:
+          - generic [ref=f131e162]: "#E23A5B"
+          - text: ורוד מסטיק
+        - generic [ref=f131e163]:
+          - generic [ref=f131e164]: "#160043"
+          - text: אינדיגו לטקסט
+        - generic [ref=f131e165]:
+          - generic [ref=f131e166]: "#563AE5"
+          - text: סגול משני
+      - generic [ref=f131e167]:
+        - generic [ref=f131e168]: MASTIK
+        - generic [ref=f131e174]:
+          - generic [ref=f131e175]: בונים לעסק שלכם
+          - generic [ref=f131e176]: מערכת אחת שעושה
+          - generic [ref=f131e177]: את כל העבודה.
+    - article [ref=f131e190]:
+      - generic [ref=f131e191]:
+        - heading "ג · הגרדיאנט שלך במרכז" [level=3] [ref=f131e192]
+        - paragraph [ref=f131e193]: "ענבר→אלמוג→סגול הופך לגיבור: כותרות ומספרים בגרדיאנט, רקעים כהים מאוד. הכי צבעוני, הכי נועז, והכי רחוק מהוורוד של המסטיק."
+      - generic [ref=f131e194]:
+        - generic [ref=f131e195]:
+          - generic [ref=f131e196]: "#0E0A18"
+          - text: לילה
+        - generic [ref=f131e197]:
+          - generic [ref=f131e198]: "#FBAC3F"
+          - text: ענבר
+        - generic [ref=f131e199]:
+          - generic [ref=f131e200]: "#FF5C5D"
+          - text: אלמוג
+        - generic [ref=f131e201]:
+          - generic [ref=f131e202]: "#563AE5"
+          - text: סגול
+        - generic [ref=f131e203]:
+          - generic [ref=f131e204]: "#E23A5B"
+          - text: ורוד מסטיק
+      - generic [ref=f131e205]:
+        - generic [ref=f131e206]: MASTIK
+        - generic [ref=f131e212]:
+          - generic [ref=f131e213]: בונים לעסק שלכם
+          - generic [ref=f131e214]: מערכת אחת שעושה
+          - generic [ref=f131e215]: את כל העבודה.
+  - generic [ref=f131e228]:
+    - heading "04 · הרקע — שלושה קונספטים" [level=2] [ref=f131e229]
+    - paragraph [ref=f131e230]: הרקע הנוכחי אכן שטוח מדי. שלוש אפשרויות, כולן חיות למטה — לא תמונות.
+    - generic [ref=f131e231]:
+      - article [ref=f131e232]:
+        - heading "גריד נושם" [level=3] [ref=f131e234]
+        - paragraph [ref=f131e235]: גריד עדין שנמוג לקצוות, ושתי בריכות אור — ורודה וסגולה — שזזות איטית מאוד עם הגלילה. נותן מרחב בלי להסיח.
+      - article [ref=f131e236]:
+        - heading "אבק כוכבים" [level=3] [ref=f131e238]
+        - paragraph [ref=f131e239]: חלקיקים זעירים שנעים לאט בעומק, שלוש שכבות במהירויות שונות. מוסיף עומק אמיתי לתלת-מימד בסצנות הכהות.
+        - generic [ref=f131e240]: מומלץ לסצנות הכהות
+      - article [ref=f131e241]:
+        - heading "קווי אוטומציה" [level=3] [ref=f131e243]
+        - paragraph [ref=f131e244]: קווים דקים שזורמים כמו מסלולי נתונים, עם נקודות אור שרצות עליהם. קשור ישירות למה שאתה מוכר.
+  - generic [ref=f131e245]:
+    - heading "05 · מפת הסקשנים והתנועה" [level=2] [ref=f131e246]
+    - paragraph [ref=f131e247]: שמונה סצנות. עמודת ״רקע״ מראה מתי נכנסים לחשיכה — שלוש מתוך שמונה, כלומר הכהה נשאר במיעוט.
+    - list [ref=f131e248]:
+      - listitem [ref=f131e249]:
+        - generic [ref=f131e250]: "01"
+        - generic [ref=f131e251]:
+          - heading "הירו — שיגור הדמו" [level=3] [ref=f131e252]
+          - paragraph [ref=f131e253]: הרובוט עומד חצי מעל מסך ה-CRM. בגלילה המסך מתנתק, מסתובב 360° ומחליף שלוש מערכות, ואז נועץ את עצמו למקום.
+          - generic [ref=f131e254]: מסלול מצלמה רציף · סיבוב תלת-מימד · נעיצה
+        - generic [ref=f131e255]: כהה
+      - listitem [ref=f131e256]:
+        - generic [ref=f131e257]: "02"
+        - generic [ref=f131e258]:
+          - heading "יעד הנעיצה — ״מה יש בפנים״" [level=3] [ref=f131e259]
+          - paragraph [ref=f131e260]: "הדמו לא נשאר בדף ריק. הוא נועץ לתוך מסגרת אמיתית: מסביבו נפתחים ארבעה קופסונים שמצביעים על חלקי המסך ומסבירים מה כל אחד עושה."
+          - generic [ref=f131e261]: הסבר עוגן · קווי הצבעה שנמתחים
+        - generic [ref=f131e262]: בהיר
+      - listitem [ref=f131e263]:
+        - generic [ref=f131e264]: "03"
+        - generic [ref=f131e265]:
+          - heading "שירותים — כרטיסיות שעולות" [level=3] [ref=f131e266]
+          - paragraph [ref=f131e267]: כותרת ענק, וחמש כרטיסיות שעולות מלמטה בתלת-מימד וחוצות אותה. בסוף הן מתיישבות לשורה קריאה.
+          - generic [ref=f131e268]: rotateX + z · stagger · חציית הכותרת
+        - generic [ref=f131e269]: בהיר
+      - listitem [ref=f131e270]:
+        - generic [ref=f131e271]: "04"
+        - generic [ref=f131e272]:
+          - heading "אינטגרציות — הכל מתחבר" [level=3] [ref=f131e273]
+          - paragraph [ref=f131e274]: לוגואים אמיתיים של וואטסאפ, ג׳ימייל, יומן גוגל, Make, Slack, Sheets ומטא — טסים פנימה ומתחברים לרכזת אחת בקווים זוהרים.
+          - generic [ref=f131e275]: מסלולים מתעקלים · קווים שמציירים את עצמם · דופק
+        - generic [ref=f131e276]: כהה
+      - listitem [ref=f131e277]:
+        - generic [ref=f131e278]: "05"
+        - generic [ref=f131e279]:
+          - heading "תהליך העבודה — הריל" [level=3] [ref=f131e280]
+          - paragraph [ref=f131e281]: "בדיוק כמו בסרטון: ארבעה עיגולים ממוספרים עם הילה מנטה, קו מתעקל שמצייר את עצמו ביניהם, וכל שלב נפתח כשהקו מגיע אליו."
+          - generic [ref=f131e282]: קו שנכתב · הילה נדלקת · פתיחת טקסט
+        - generic [ref=f131e283]: כהה
+      - listitem [ref=f131e284]:
+        - generic [ref=f131e285]: "06"
+        - generic [ref=f131e286]:
+          - heading "הגישה — שלושה עמודים" [level=3] [ref=f131e287]
+          - paragraph [ref=f131e288]: שלוש כרטיסיות, כל אחת עם מיני-ממשק אמיתי בפנים ומספר שמטפס מאפס. הגרדיאנט שלך יופיע כאן על המספרים.
+          - generic [ref=f131e289]: מונים · הטיה קלה בכניסה
+        - generic [ref=f131e290]: בהיר
+      - listitem [ref=f131e291]:
+        - generic [ref=f131e292]: "07"
+        - generic [ref=f131e293]:
+          - heading "המלצות — בועות" [level=3] [ref=f131e294]
+          - paragraph [ref=f131e295]: שש ההמלצות האמיתיות שלך קופצות פנימה בתנועת בועה — קלה, עם קפיצה קטנה. דירוג 4.9 מוצג לצידן.
+          - generic [ref=f131e296]: pop עם overshoot · masonry
+        - generic [ref=f131e297]: בהיר
+      - listitem [ref=f131e298]:
+        - generic [ref=f131e299]: "08"
+        - generic [ref=f131e300]:
+          - heading "יצירת קשר + פוטר" [level=3] [ref=f131e301]
+          - paragraph [ref=f131e302]: טופס אחד נקי, טלפון ומייל בלחיצה, פוטר עם ניווט. הטופס לא מחובר עדיין — נחבר אחרי אישור העיצוב.
+          - generic [ref=f131e303]: כניסה רכה · מצבי שגיאה מעוצבים
+        - generic [ref=f131e304]: כהה
+  - generic [ref=f131e305]:
+    - heading "מה אני צריך ממך" [level=2] [ref=f131e306]
+    - list [ref=f131e307]:
+      - listitem [ref=f131e308]:
+        - generic [ref=f131e309]: פונט כותרות
+        - text: "— Rubik / Heebo / Secular / Suez. או: שלח את FbCoherentiSans ונגמור עניין."
+      - listitem [ref=f131e310]:
+        - generic [ref=f131e311]: פונט טקסט
+        - text: — Assistant או Alef.
+      - listitem [ref=f131e312]:
+        - generic [ref=f131e313]: פלטה
+        - text: — א׳ לילה ורוד / ב׳ אור בלבד / ג׳ הגרדיאנט במרכז.
+      - listitem [ref=f131e314]:
+        - generic [ref=f131e315]: רקע
+        - text: — גריד נושם / אבק כוכבים / קווי אוטומציה.
+      - listitem [ref=f131e316]:
+        - generic [ref=f131e317]: לוגואים
+        - text: — אישור להשתמש בלוגואים הרשמיים של וואטסאפ, גוגל, Slack וכו׳ בסקשן האינטגרציות.
+      - listitem [ref=f131e318]:
+        - generic [ref=f131e319]: התמונה
+        - text: — הקובץ שנקרא
+        - code [ref=f131e320]: mastik-gum
+        - text: הוא בעצם פורטרט של בחור, לא גרפיקת מסטיק. מי זה, ואיפה אתה רוצה אותו?
+      - listitem [ref=f131e321]:
+        - generic [ref=f131e322]: מספרים
+        - text: — 90% / 85% / 99% ו-4.9 מתוך 832 לקוחים מהאתר הקיים. מאושרים?
+    - paragraph [ref=f131e323]: ברגע שיש לי את ארבע הבחירות הראשונות — אני בונה את כל שמונת הסקשנים ברצף, בלי לעצור.

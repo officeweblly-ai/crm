@@ -1,0 +1,154 @@
+/* ============================================================
+   PILLARS — the how, in three cards with live-looking UI.
+   ============================================================ */
+
+.pillars {
+  background: var(--bg-soft);
+  padding: clamp(9vh, 14vh, 18vh) 0;
+}
+.pillars-head {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  text-align: center;
+  margin-bottom: clamp(40px, 7vh, 76px);
+}
+.pillars-head h2 { font-size: var(--t-h2); }
+.pillars-head p {
+  font-size: var(--t-lead);
+  color: var(--ink-500);
+  max-width: 50ch;
+}
+
+.pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  perspective: 1400px;
+}
+.pillar {
+  background: var(--surface);
+  border-radius: 26px;
+  padding: 24px 24px 0;
+  box-shadow: var(--e2), inset 0 0 0 1px var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  overflow: hidden;
+  will-change: transform;
+}
+.pillar-metric {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+.pillar-metric b {
+  font-family: var(--font-display-face), sans-serif;
+  font-weight: 800;
+  font-size: clamp(2.4rem, 3.4vw, 3.25rem);
+  line-height: 1;
+  letter-spacing: -0.035em;
+  color: var(--ink-900);
+}
+.pillar-metric span {
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--gum-500);
+}
+.pillar h3 {
+  font-size: 1.2rem;
+  letter-spacing: -0.018em;
+}
+.pillar p {
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--ink-500);
+}
+.pillar-vis {
+  margin-top: auto;
+  margin-inline: -24px;
+  padding: 18px 24px 24px;
+  background: linear-gradient(180deg, rgba(244, 241, 246, 0) 0%, var(--bg-soft) 100%);
+}
+
+/* --- mini visual 1: a flow --- */
+.vis-flow {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+.vis-flow b {
+  flex: 1;
+  height: 34px;
+  border-radius: 10px;
+  background: var(--surface);
+  box-shadow: var(--e1), inset 0 0 0 1px var(--line);
+  display: grid;
+  place-items: center;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--ink-600);
+}
+.vis-flow i {
+  width: 12px;
+  height: 1.5px;
+  background: var(--gum-300);
+  flex: none;
+}
+
+/* --- mini visual 2: connections --- */
+.vis-conn {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.vis-conn div {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  background: var(--surface);
+  border-radius: 10px;
+  padding: 8px 11px;
+  box-shadow: var(--e1), inset 0 0 0 1px var(--line);
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--ink-600);
+}
+.vis-conn svg {
+  margin-inline-start: auto;
+  color: var(--green);
+  width: 15px;
+  height: 15px;
+}
+.vis-conn i {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+
+/* --- mini visual 3: bars --- */
+.vis-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 92px;
+}
+.vis-bars u {
+  flex: 1;
+  border-radius: 5px 5px 2px 2px;
+  background: var(--bg-deep);
+  display: block;
+  transform-origin: 50% 100%;
+}
+.vis-bars u.hi {
+  background: linear-gradient(180deg, var(--gum-400), var(--gum-600));
+  box-shadow: 0 6px 16px rgba(226, 58, 91, 0.28);
+}
+
+@media (max-width: 980px) {
+  .pillars-grid { grid-template-columns: 1fr; gap: 16px; }
+  .pillar { padding: 22px 20px 0; }
+  .pillar-vis { margin-inline: -20px; padding: 16px 20px 20px; }
+}

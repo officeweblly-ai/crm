@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "mastik",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "mastik", "run", "dev"],
+      "port": 3000
+    }
+  ]
+}

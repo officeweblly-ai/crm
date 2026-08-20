@@ -1,0 +1,248 @@
+- generic [ref=f125e1]:
+  - main [ref=f125e2]:
+    - region "מסטיק — בונים מערכות שעובדות לבד" [ref=f125e3]:
+      - generic [ref=f125e4]:
+        - generic [ref=f125e5]:
+          - link "מסטיק — לעמוד הבית" [ref=f125e6] [cursor=pointer]:
+            - /url: /
+            - img "מסטיק" [ref=f125e7]
+            - generic [ref=f125e8]: stick it all together
+          - navigation "ניווט ראשי" [ref=f125e9]:
+            - link "שירותים" [ref=f125e10] [cursor=pointer]:
+              - /url: "#services"
+            - link "אוטומציות" [ref=f125e11] [cursor=pointer]:
+              - /url: "#automations"
+            - link "תהליך העבודה" [ref=f125e12] [cursor=pointer]:
+              - /url: "#process"
+            - link "עבודות" [ref=f125e13] [cursor=pointer]:
+              - /url: "#work"
+            - link "בלוג" [ref=f125e14] [cursor=pointer]:
+              - /url: /blog
+          - link "בואו נדבר" [ref=f125e16] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=f125e17]:
+          - generic [ref=f125e18]:
+            - generic [ref=f125e19]: CRM · אוטומציות · סוכני AI
+            - heading "בונים לעסק שלכם מערכת אחת שעושה את כל העבודה." [level=1] [ref=f125e21]:
+              - generic [ref=f125e22]: בונים לעסק שלכם
+              - generic [ref=f125e23]: מערכת אחת שעושה
+              - generic [ref=f125e24]: את כל העבודה.
+            - paragraph [ref=f125e25]: הטפסים, הוואטסאפ, היומן והדוחות — מסטיק מדביקה את כולם למערכת אחת חכמה שרצה לבד, בלי שאף פנייה תיפול בין הכיסאות.
+            - generic [ref=f125e26]:
+              - link "בואו נבנה לכם מערכת" [ref=f125e27] [cursor=pointer]:
+                - /url: "#contact"
+              - link "לצפייה בדמו" [ref=f125e28] [cursor=pointer]:
+                - /url: "#demo"
+            - generic [ref=f125e31]: יותר מ-120 עסקים ישראליים עובדים עם מערכות שבנינו
+          - generic [ref=f125e39]:
+            - generic [ref=f125e44]:
+              - complementary [ref=f125e45]:
+                - generic [ref=f125e46]:
+                  - generic [ref=f125e47]: M
+                  - text: מסטיק CRM
+                - generic [ref=f125e48]:
+                  - generic [ref=f125e49]: ניהול
+                  - navigation [ref=f125e50]:
+                    - generic [ref=f125e51]: לוח בקרה
+                    - generic [ref=f125e53]: לידים
+                    - generic [ref=f125e55]: לקוחות
+                    - generic [ref=f125e57]: עסקאות
+                    - generic [ref=f125e59]: אוטומציות
+                    - generic [ref=f125e61]: סוכני AI
+                    - generic [ref=f125e63]: דוחות
+                - generic [ref=f125e65]:
+                  - strong [ref=f125e66]: סוכן AI חדש
+                  - paragraph [ref=f125e67]: הפעילו מענה אוטומטי 24/7 לפניות שנכנסות מהאתר
+                  - generic [ref=f125e68]: הפעלה
+              - generic [ref=f125e69]:
+                - generic [ref=f125e70]: חיפוש לקוח, עסקה או פנייה…
+                - generic [ref=f125e75]:
+                  - generic [ref=f125e76]:
+                    - generic [ref=f125e77]:
+                      - heading "שלום אופק" [level=4] [ref=f125e78]
+                      - text: יום שלישי, 18 באוגוסט · 7 משימות פתוחות
+                    - generic [ref=f125e79]: 30 הימים האחרונים
+                  - generic [ref=f125e80]:
+                    - generic [ref=f125e81]:
+                      - heading "לידים חדשים" [level=5] [ref=f125e82]
+                      - strong [ref=f125e83]: "128"
+                      - generic [ref=f125e84]: +12.4%
+                    - generic [ref=f125e85]:
+                      - heading "פניות שנענו אוטומטית" [level=5] [ref=f125e86]
+                      - strong [ref=f125e87]: 94%
+                      - generic [ref=f125e88]: +8.1%
+                    - generic [ref=f125e89]:
+                      - heading "עסקאות שנסגרו" [level=5] [ref=f125e90]
+                      - strong [ref=f125e91]: ₪184,200
+                      - generic [ref=f125e92]: +23.7%
+                    - generic [ref=f125e93]:
+                      - heading "זמן תגובה ממוצע" [level=5] [ref=f125e94]
+                      - strong [ref=f125e95]: 2:14 דק׳
+                      - generic [ref=f125e96]: −41%
+                  - generic [ref=f125e97]:
+                    - generic [ref=f125e98]:
+                      - generic [ref=f125e99]:
+                        - heading "הכנסות לפי חודש" [level=5] [ref=f125e100]
+                        - generic [ref=f125e101]:
+                          - generic [ref=f125e102]: שבועי
+                          - generic [ref=f125e103]: חודשי
+                      - generic [ref=f125e104]:
+                        - generic [ref=f125e105]: ינו
+                        - generic [ref=f125e108]: פבר
+                        - generic [ref=f125e111]: מרץ
+                        - generic [ref=f125e114]: אפר
+                        - generic [ref=f125e117]: מאי
+                        - generic [ref=f125e120]: יונ
+                        - generic [ref=f125e123]: יול
+                        - generic [ref=f125e126]: אוג
+                        - generic [ref=f125e129]: ספט
+                        - generic [ref=f125e132]: אוק
+                    - generic [ref=f125e135]:
+                      - heading "מקורות לידים" [level=5] [ref=f125e137]
+                      - generic [ref=f125e144]:
+                        - generic [ref=f125e145]:
+                          - text: אתר וטפסים
+                          - generic [ref=f125e147]: 42%
+                        - generic [ref=f125e148]:
+                          - text: וואטסאפ
+                          - generic [ref=f125e150]: 27%
+                        - generic [ref=f125e151]:
+                          - text: קמפיינים
+                          - generic [ref=f125e153]: 18%
+                        - generic [ref=f125e154]:
+                          - text: המלצות
+                          - generic [ref=f125e156]: 13%
+                  - generic [ref=f125e157]:
+                    - generic [ref=f125e158]:
+                      - heading "פניות אחרונות" [level=5] [ref=f125e159]
+                      - generic [ref=f125e160]: 118 לקוחות
+                    - table [ref=f125e161]:
+                      - rowgroup [ref=f125e162]:
+                        - row [ref=f125e163]:
+                          - columnheader "שם לקוח" [ref=f125e164]
+                          - columnheader "מקור" [ref=f125e165]
+                          - columnheader "סטטוס" [ref=f125e166]
+                          - columnheader "שווי עסקה" [ref=f125e167]
+                      - rowgroup [ref=f125e168]:
+                        - row [ref=f125e169]:
+                          - cell "נועה ישראלי" [ref=f125e170]
+                          - cell "אתר — טופס" [ref=f125e171]
+                          - cell "פגישה נקבעה" [ref=f125e172]
+                          - cell "₪18,400" [ref=f125e173]
+                        - row [ref=f125e174]:
+                          - cell "דניאל לוי" [ref=f125e175]
+                          - cell "וואטסאפ" [ref=f125e176]
+                          - cell "בטיפול" [ref=f125e177]
+                          - cell "₪9,200" [ref=f125e178]
+                        - row [ref=f125e179]:
+                          - cell "איתי מזרחי" [ref=f125e180]
+                          - cell "קמפיין גוגל" [ref=f125e181]
+                          - cell "נסגר" [ref=f125e182]
+                          - cell "₪42,000" [ref=f125e183]
+                        - row [ref=f125e184]:
+                          - cell "מאיה רוזנברג" [ref=f125e185]
+                          - cell "המלצה" [ref=f125e186]
+                          - cell "ליד חדש" [ref=f125e187]
+                          - cell "₪6,800" [ref=f125e188]
+            - img "הרובוט של מסטיק מנפח בועת מסטיק"
+            - generic [ref=f125e189]:
+              - generic [ref=f125e190]: 94%
+              - generic [ref=f125e191]:
+                - text: מהפניות נענות אוטומטית
+                - generic [ref=f125e192]: בלי מגע יד אדם
+            - generic [ref=f125e193]:
+              - generic [ref=f125e194]: "47"
+              - generic [ref=f125e195]:
+                - text: שעות עבודה נחסכו החודש
+                - generic [ref=f125e196]: לצוות של 4 אנשים
+        - generic:
+          - article:
+            - generic: 01 — המערכת
+            - heading "CRM שנבנה סביב התהליך שלכם" [level=2]
+            - paragraph: כל ליד, כל שיחה וכל עסקה במקום אחד — עם המסכים, השדות והסטטוסים של העסק שלכם, לא של תבנית גנרית.
+            - generic:
+              - generic: ניהול לידים
+              - generic: צנרת מכירות
+              - generic: דוחות חיים
+          - article:
+            - generic: 02 — האוטומציות
+            - heading "העבודה השחורה רצה לבד" [level=2]
+            - paragraph: טופס שנשלח, וואטסאפ שנענה, פגישה שנקבעת ודוח שמתעדכן — שרשרת אחת שרצה ברקע בלי שתזכרו אותה.
+            - generic:
+              - generic: טפסים ולידים
+              - generic: וואטסאפ ומייל
+              - generic: סנכרון יומן
+          - article:
+            - generic: 03 — הסוכן
+            - heading "סוכן AI שמדבר עם הלקוחות" [level=2]
+            - paragraph: מבין מה הלקוח באמת רוצה, שולף את התשובה מתוך המערכת שלכם, פותח קריאה ומזמן פגישה — 24 שעות ביממה.
+            - generic:
+              - generic: מענה 24/7
+              - generic: סינון פניות
+              - generic: תיאום פגישות
+        - status [ref=f125e197]:
+          - generic [ref=f125e202]: מערכת CRM
+        - generic [ref=f125e203]: גללו
+    - generic [ref=f125e205]: ומה בעצם בונים בפנים?
+    - generic [ref=f125e209]: השירותים שלנו
+    - generic [ref=f125e214]:
+      - heading "כל הכלים שאתם כבר עובדים איתם מתחברים לנקודה אחת." [level=2] [ref=f125e215]: כל הכלים שאתם כבר עובדים איתםמתחברים לנקודה אחת.
+      - paragraph [ref=f125e216]: וואטסאפ, מייל, יומן, סליקה, גיליונות וקמפיינים — מפסיקים להיות שבעה מקומות נפרדים שאף אחד לא מסתדר ביניהם, והופכים למערכת אחת שמדברת עם עצמה.
+      - generic [ref=f125e217]:
+        - generic [ref=f125e218]:
+          - generic [ref=f125e219]: 90%
+          - generic [ref=f125e220]: פחות כאבי ראש
+        - generic [ref=f125e221]:
+          - generic [ref=f125e222]: 85%
+          - generic [ref=f125e223]: יותר סדר וארגון
+        - generic [ref=f125e224]:
+          - generic [ref=f125e225]: 99%
+          - generic [ref=f125e226]: אוטומציה שעובדת
+    - generic [ref=f125e235]:
+      - heading "תהליך פשוט שמביא תוצאות גדולות." [level=2] [ref=f125e236]
+      - paragraph [ref=f125e237]: ארבעה שלבים, בלי הפתעות ובלי ז׳רגון — מהשיחה הראשונה ועד המערכת שרצה לבד.
+    - generic [ref=f125e241]:
+      - generic [ref=f125e242]: הגישה שלנו
+      - heading "פיתוח תהליכים שמעצימים עסקים." [level=2] [ref=f125e243]
+      - paragraph [ref=f125e244]: שילוב של אסטרטגיה טכנולוגית וראייה עסקית. זה לא רק פיתוח — זו ארכיטקטורה של תפעול שלם.
+    - generic [ref=f125e251]:
+      - generic [ref=f125e252]:
+        - option "ייעוץ כללי" [selected]
+        - option "מערכת CRM"
+        - option "אוטומציות"
+        - option "חיבורי API"
+        - option "צ׳אטבוט או סוכן AI"
+        - option "זה מורכב, בואו נדבר"
+      - generic [ref=f125e254]:
+        - generic [ref=f125e255]:
+          - img "מסטיק" [ref=f125e256]
+          - paragraph [ref=f125e257]: מסטיק היא סוכנות אוטומציה שמחברת בין טכנולוגיה, יצירתיות והבנה עסקית — כדי שהעסק שלכם יגדל מהר ויחסוך זמן, כסף וכאב ראש.
+        - generic [ref=f125e258]:
+          - heading "ניווט" [level=4] [ref=f125e259]
+          - link "עמוד הבית" [ref=f125e260] [cursor=pointer]:
+            - /url: /
+          - link "השירותים שלנו" [ref=f125e261] [cursor=pointer]:
+            - /url: "#services"
+          - link "תהליך העבודה" [ref=f125e262] [cursor=pointer]:
+            - /url: "#process"
+          - link "המלצות" [ref=f125e263] [cursor=pointer]:
+            - /url: "#reviews"
+        - generic [ref=f125e264]:
+          - heading "משאבים" [level=4] [ref=f125e265]
+          - link "הבלוג של מסטיק" [ref=f125e266] [cursor=pointer]:
+            - /url: /blog
+          - link "יצירת קשר" [ref=f125e267] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=f125e268]:
+          - heading "מידע" [level=4] [ref=f125e269]
+          - link "הצהרת נגישות" [ref=f125e270] [cursor=pointer]:
+            - /url: /accessibility
+          - link "תקנון ותנאי שימוש" [ref=f125e271] [cursor=pointer]:
+            - /url: /terms
+          - link "מדיניות פרטיות" [ref=f125e272] [cursor=pointer]:
+            - /url: /privacy
+      - generic [ref=f125e273]:
+        - generic [ref=f125e274]: © 2026 מסטיק · כל הזכויות שמורות
+        - generic [ref=f125e275]: אוטומציה שמדביקה את העסק שלכם להצלחה
+  - button "Open Next.js Dev Tools" [ref=f125e281] [cursor=pointer]
+  - alert [ref=f125e285]

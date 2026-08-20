@@ -1,0 +1,932 @@
+- generic [active] [ref=e1]:
+  - link "דלג לתוכן" [ref=e43] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e44]:
+    - banner [ref=e45]:
+      - generic [ref=e47]:
+        - link [ref=e49] [cursor=pointer]:
+          - /url: https://enigma.jetdomains.co.il
+        - navigation "תפריט" [ref=e51]:
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - link "מפת האוטומציות" [ref=e54] [cursor=pointer]:
+                - /url: "#our-services"
+            - listitem [ref=e55]:
+              - link "אודותינו" [ref=e56] [cursor=pointer]:
+                - /url: "#about-us"
+            - listitem [ref=e57]:
+              - link "תהליך העבודה" [ref=e58] [cursor=pointer]:
+                - /url: "#our-proccess"
+            - listitem [ref=e59]:
+              - link "לקוחות מספרים" [ref=e60] [cursor=pointer]:
+                - /url: "#reviews"
+            - listitem [ref=e61]:
+              - link "הקורסים שלנו" [ref=e62] [cursor=pointer]:
+                - /url: "#products-section"
+            - listitem [ref=e63]:
+              - link "שאלות נפוצות" [ref=e64] [cursor=pointer]:
+                - /url: "#faq-section"
+        - link "צרו קשר" [ref=e66] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MTkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+  - main [ref=e74]:
+    - generic [ref=e76]:
+      - generic [ref=e78]:
+        - heading "מחברים את החלקים של הפאזל העסקי שלכם" [level=1] [ref=e81]
+        - paragraph [ref=e83]:
+          - text: צמיחה עסקית יכולה להרגיש כמו חידה מסובכת. באניגמה אנחנו יודעים
+          - strong [ref=e84]: לפצח את האתגרים העסקיים שלכם
+          - text: – משלב האפיון ועד ההטמעה בפועל –
+          - strong [ref=e85]: ולחבר את כל החלקים המפוזרים של העסק
+          - text: לפאזל אחד ברור ומדויק. בעזרת מערכות ניהול ואוטומציות חכמות אנחנו מורידים עומס,
+          - strong [ref=e86]: מגדילים פרודוקטיביות ומשפרים את רווחיות העסק.
+      - region "קרוסלת תמונות" [ref=e106]:
+        - generic [ref=e107]:
+          - group [ref=e108]:
+            - figure [ref=e109]
+          - group [ref=e111]:
+            - figure [ref=e112]
+          - group [ref=e114]:
+            - figure [ref=e115]
+          - group [ref=e117]:
+            - figure [ref=e118]
+          - group [ref=e120]:
+            - figure [ref=e121]
+          - group [ref=e123]:
+            - figure [ref=e124]
+          - group [ref=e126]:
+            - figure [ref=e127]
+          - group [ref=e129]:
+            - figure [ref=e130]
+          - group [ref=e132]:
+            - figure [ref=e133]
+          - group [ref=e135]:
+            - figure [ref=e136]
+          - group [ref=e138]:
+            - figure [ref=e139]
+          - group [ref=e141]:
+            - figure [ref=e142]
+          - group [ref=e144]:
+            - figure [ref=e145]
+          - group [ref=e147]:
+            - figure [ref=e148]
+          - group [ref=e150]:
+            - figure [ref=e151]
+          - group "6 / 28" [ref=e153]:
+            - figure [ref=e154]:
+              - img "logo7" [ref=e155]
+          - group "7 / 28" [ref=e156]:
+            - figure [ref=e157]:
+              - img "logo8" [ref=e158]
+          - group "8 / 28" [ref=e159]:
+            - figure [ref=e160]:
+              - img "logo9" [ref=e161]
+          - group "9 / 28" [ref=e162]:
+            - figure [ref=e163]:
+              - img "logo10" [ref=e164]
+          - group "10 / 28" [ref=e165]:
+            - figure [ref=e166]:
+              - img "logo-1 (1)" [ref=e167]
+          - group "11 / 28" [ref=e168]:
+            - figure [ref=e169]:
+              - img "image 59" [ref=e170]
+          - group "12 / 28" [ref=e171]:
+            - figure [ref=e172]:
+              - img "image 60" [ref=e173]
+          - group "13 / 28" [ref=e174]:
+            - figure [ref=e175]:
+              - img "image 61" [ref=e176]
+          - group "14 / 28" [ref=e177]:
+            - figure [ref=e178]:
+              - img "Screenshot 2026-02-22 at 17.13.39 1" [ref=e179]
+          - group "15 / 28" [ref=e180]:
+            - figure [ref=e181]:
+              - img "Screenshot 2026-02-22 at 17.13.55 1" [ref=e182]
+          - group "16 / 28" [ref=e183]:
+            - figure [ref=e184]:
+              - img "Screenshot 2026-02-22 at 17.14.00 1" [ref=e185]
+          - group "17 / 28" [ref=e186]:
+            - figure [ref=e187]:
+              - img "Screenshot 2026-02-22 at 17.14.15 1" [ref=e188]
+          - group "18 / 28" [ref=e189]:
+            - figure [ref=e190]:
+              - img "Screenshot 2026-02-22 at 17.14.21 1" [ref=e191]
+          - group "19 / 28" [ref=e192]:
+            - figure [ref=e193]:
+              - img "Screenshot 2026-02-22 at 17.14.39 1" [ref=e194]
+          - group "20 / 28" [ref=e195]:
+            - figure [ref=e196]:
+              - img "Screenshot 2026-02-22 at 17.14.48 1" [ref=e197]
+          - group [ref=e198]:
+            - figure [ref=e199]
+          - group [ref=e201]:
+            - figure [ref=e202]
+          - group [ref=e204]:
+            - figure [ref=e205]
+          - group [ref=e207]:
+            - figure [ref=e208]
+          - group [ref=e210]:
+            - figure [ref=e211]
+          - group [ref=e213]:
+            - figure [ref=e214]
+          - group [ref=e216]:
+            - figure [ref=e217]
+          - group [ref=e219]:
+            - figure [ref=e220]
+          - group [ref=e222]:
+            - figure [ref=e223]
+          - group [ref=e225]:
+            - figure [ref=e226]
+          - group [ref=e228]:
+            - figure [ref=e229]
+          - group [ref=e231]:
+            - figure [ref=e232]
+          - group [ref=e234]:
+            - figure [ref=e235]
+          - group [ref=e237]:
+            - figure [ref=e238]
+          - group [ref=e240]:
+            - figure [ref=e241]
+          - group [ref=e243]:
+            - figure [ref=e244]
+          - group [ref=e246]:
+            - figure [ref=e247]
+          - group [ref=e249]:
+            - figure [ref=e250]
+      - generic [ref=e253]:
+        - generic [ref=e254]:
+          - generic [ref=e255]:
+            - generic "מרגישים שההצלחה \"חונקת\" אתכם -" [ref=e256]:
+              - heading [level=2] [ref=e258]:
+                - generic [ref=e259]:
+                  - generic [ref=e260]: מ
+                  - generic [ref=e261]: ר
+                  - generic [ref=e262]: ג
+                  - generic [ref=e263]: י
+                  - generic [ref=e264]: ש
+                  - generic [ref=e265]: י
+                  - generic [ref=e266]: ם
+                - generic [ref=e267]:
+                  - generic [ref=e268]: ש
+                  - generic [ref=e269]: ה
+                  - generic [ref=e270]: ה
+                  - generic [ref=e271]: צ
+                  - generic [ref=e272]: ל
+                  - generic [ref=e273]: ח
+                  - generic [ref=e274]: ה
+                - generic [ref=e276]:
+                  - generic [ref=e277]: "\""
+                  - generic [ref=e278]: ח
+                  - generic [ref=e279]: ו
+                  - generic [ref=e280]: נ
+                  - generic [ref=e281]: ק
+                  - generic [ref=e282]: ת
+                  - generic [ref=e283]: "\""
+                - generic [ref=e284]:
+                  - generic [ref=e285]: א
+                  - generic [ref=e286]: ת
+                  - generic [ref=e287]: כ
+                  - generic [ref=e288]: ם
+                - generic [ref=e289]: "-"
+            - heading "למרות שיש לכם פוטנציאל?" [level=2] [ref=e292]
+          - generic [ref=e293]:
+            - paragraph [ref=e295]:
+              - strong [ref=e296]: אתם מוכשרים, שאפתנים והעסק שלכם גדל
+              - text: – אבל… מאחורי הקלעים אתם מותשים ומתוסכלים מכיבוי שריפות. טובעים בבלאגן ומרגישים שאתם מאבדים שליטה.
+            - paragraph [ref=e298]: אתם יודעים שיש פוטנציאל אדיר לצמוח אבל אתם חוששים שהעסק פשוט יקרוס תחת העומס.
+            - paragraph [ref=e300]:
+              - text: ובינתיים אתם
+              - strong [ref=e301]: מפספסים המון הזדמנויות…
+        - generic [ref=e302]:
+          - heading "לידים ועסקאות נופלים לכם “בין הכיסאות”" [level=3] [ref=e312]
+          - heading "מבזבזים שעות על קבצים ידניים ואקסלים מבולגנים" [level=3] [ref=e322]
+          - heading "המידע הולך לאיבוד בין מיילים לוואטסאפים" [level=3] [ref=e332]
+          - heading "מבטיחים ושוכחים לעשות פולו-אפ בזמן" [level=3] [ref=e342]
+      - generic [ref=e349]:
+        - generic [ref=e350]:
+          - generic [ref=e351]:
+            - generic "העסק שלכם יכול לעבוד" [ref=e352]:
+              - heading [level=2] [ref=e354]:
+                - generic [ref=e355]:
+                  - generic [ref=e356]: ה
+                  - generic [ref=e357]: ע
+                  - generic [ref=e358]: ס
+                  - generic [ref=e359]: ק
+                - generic [ref=e360]:
+                  - generic [ref=e361]: ש
+                  - generic [ref=e362]: ל
+                  - generic [ref=e363]: כ
+                  - generic [ref=e364]: ם
+                - generic [ref=e365]:
+                  - generic [ref=e366]: י
+                  - generic [ref=e367]: כ
+                  - generic [ref=e368]: ו
+                  - generic [ref=e369]: ל
+                - generic [ref=e370]:
+                  - generic [ref=e371]: ל
+                  - generic [ref=e372]: ע
+                  - generic [ref=e373]: ב
+                  - generic [ref=e374]: ו
+                  - generic [ref=e375]: ד
+            - heading "הרבה יותר טוב" [level=2] [ref=e377]
+          - paragraph [ref=e379]:
+            - text: במקום עשרות
+            - strong [ref=e380]: קבצים מפוזרים, לידים מפוספסים ומשימות שנופלות בין הכיסאות
+            - text: – העסק שלכם יכול להתנהל בצורה מסודרת, נוחה ואוטומטית. אנחנו מתכננים
+            - strong [ref=e381]: מערכות אוטומציה חכמות שהופכות עומס תפעולי בחברה למנוע צמיחה,
+            - text: ומחזירים לכם את השקט לפעול ולהתפתח.
+        - generic [ref=e392] [cursor=pointer]:
+          - slider "50" [ref=e395]
+          - img "Screenshot 2026-02-16 at 23.03.47" [ref=e405]
+          - img "dashboard" [ref=e407]
+      - generic [ref=e418]:
+        - generic [ref=e419]:
+          - generic "מפת האוטומציות" [ref=e420]:
+            - heading [level=2] [ref=e422]:
+              - generic [ref=e423]:
+                - generic [ref=e424]: מ
+                - generic [ref=e425]: פ
+                - generic [ref=e426]: ת
+              - generic [ref=e427]:
+                - generic [ref=e428]: ה
+                - generic [ref=e429]: א
+                - generic [ref=e430]: ו
+                - generic [ref=e431]: ט
+                - generic [ref=e432]: ו
+                - generic [ref=e433]: מ
+                - generic [ref=e434]: צ
+                - generic [ref=e435]: י
+                - generic [ref=e436]: ו
+                - generic [ref=e437]: ת
+          - heading "לעסק שלך" [level=2] [ref=e439]
+        - paragraph [ref=e441]: באיזה נושאים אפשר לייעל את העסק שלכם?
+      - generic "טאבים. פתח פריטים עם אנטר או רווח, סגור עם אסקייפ ונווט באמצעות מקשי החצים" [ref=e450]:
+        - tablist [ref=e451]:
+          - tab "ניהול וייעול" [selected] [ref=e452] [cursor=pointer]
+          - tab "מכירות" [ref=e454] [cursor=pointer]
+          - tab "תפעול ולוגיסטיקה" [ref=e456] [cursor=pointer]
+          - tab "כספים" [ref=e458] [cursor=pointer]
+          - tab "בקרה ושירות" [ref=e460] [cursor=pointer]
+          - tab "שיווק" [ref=e462] [cursor=pointer]
+        - tabpanel "ניהול וייעול" [ref=e465]:
+          - generic [ref=e467]:
+            - heading "ניהול וייעול" [level=3] [ref=e469]
+            - paragraph [ref=e471]:
+              - text: ניהול וייעול מאפשר
+              - strong [ref=e472]: לראות את התמונה המלאה של העסק ולהתפתח הלאה
+              - text: אפילו עוד. אנחנו מציעים פיתוח מוצרים ופתרונות ייחודיים, שימוש בכלים חכמים לשיפור מערכות CRM
+              - strong [ref=e473]: ותכנון אסטרטגי ארוך טווח.
+          - paragraph [ref=e478]: "עשרות פתרונות לכל אתגר:"
+          - generic [ref=e483]:
+            - paragraph [ref=e491]: תובנות על רווחיות, יעילות צוות ועוד
+            - paragraph [ref=e502]: דשבורדים מקיפים להסתכלות רחבה
+            - paragraph [ref=e528]: אפיון תהליכים לייעול העסק
+            - paragraph [ref=e541]: ייעוץ שיווקי למיפוי אוטומציות רלוונטיות
+            - paragraph [ref=e550]: פיתוח מערכות ניהול לו"ז
+            - paragraph [ref=e561]: שימוש בAI לשיפור יכולות הCRM
+      - generic [ref=e564]:
+        - paragraph [ref=e566]: לא בטוחים מה הפיתרון המתאים עבורכם? אנחנו יודעים לפתור כל אתגר, נסו אותנו!
+        - link "בואו נפצח את העסק שלכם" [ref=e568] [cursor=pointer]:
+          - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MTkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+      - generic [ref=e587]:
+        - generic [ref=e589]:
+          - generic [ref=e590]: עסקים וחברות שצמחו איתנו
+          - generic [ref=e591]:
+            - generic [ref=e592]: +
+            - generic [ref=e593]: "0"
+        - generic [ref=e596]:
+          - generic [ref=e597]: שנות ניסיון
+          - generic [ref=e598]: "0"
+        - generic [ref=e603]:
+          - generic [ref=e604]: מענה לכלל המחלקות
+          - generic [ref=e605]:
+            - generic [ref=e606]: "%"
+            - generic [ref=e607]: "0"
+        - generic [ref=e610]:
+          - generic [ref=e611]: יעילות תפעולית
+          - generic [ref=e612]:
+            - generic [ref=e613]: "%"
+            - generic [ref=e614]: "0"
+      - generic [ref=e618]:
+        - generic [ref=e619]:
+          - generic [ref=e620]:
+            - generic "מהפך מקיף" [ref=e621]:
+              - heading [level=2] [ref=e623]:
+                - generic [ref=e624]:
+                  - generic [ref=e625]: מ
+                  - generic [ref=e626]: ה
+                  - generic [ref=e627]: פ
+                  - generic [ref=e628]: ך
+                - generic [ref=e629]:
+                  - generic [ref=e630]: מ
+                  - generic [ref=e631]: ק
+                  - generic [ref=e632]: י
+                  - generic [ref=e633]: ף
+            - heading "לעסק יעיל" [level=2] [ref=e635]
+          - paragraph [ref=e637]:
+            - text: אנחנו
+            - strong [ref=e638]: מתאימים את המערכת אליכם ולא אתכם למערכת
+            - text: – כדי לוודא שכל אתגר עסקי יקבל
+            - strong [ref=e639]: פיתרון טכנולוגי שנבנה במיוחד
+            - text: בשביל הצרכים שלכם.
+        - generic [ref=e670]:
+          - generic [ref=e677]:
+            - heading "איפיון האתגרים" [level=3] [ref=e678]
+            - paragraph [ref=e679]: כשעסק שלכם גדל, הכאוס גם. בשיחה ראשונית נכיר אתכם, נבין את ה־DNA הארגוני, הקשיים והיעדים, ונתכנן את התהליך שמתאים לארגון ולפעילות, כדי שבסופו תוכלו להמשיך ולהתפתח ללא חשש.
+          - generic [ref=e686]:
+            - heading "זיהוי החולשות" [level=3] [ref=e687]
+            - paragraph [ref=e688]: לאחר איפיון מעמיק לכל החלקים בפאזל העסקי שלכם, אנחנו מזהים את נקודות הכשל בתהליכים ומחברים הכל למסלול עבודה אחד ברור - תכנון הפתרונות המדויקים לכם לפי הצרכים והמטרות, לא לפי כלי אחד קבוע.
+          - generic [ref=e695]:
+            - heading "בניית המערכת" [level=3] [ref=e696]
+            - paragraph [ref=e697]: השלב בו כל מורכבות עסקית מקבלת פיתרון טכנולוגי וכל אתגר מפוצח לחלק ממערכת זורמת ואחידה. בסופו, תחוו את המהפך מעומס תפעולי ואי סדר ארגוני, לשגרת עבודה פשוטה ופרודוקטיבית.
+          - generic [ref=e704]:
+            - heading "הטמעה והדרכה" [level=3] [ref=e705]
+            - paragraph [ref=e706]: מעבירים את הארגון לשגרה החדשה בצורה בטוחה ומסודרת. צוותי המחלקות השונות יודרכו וייצרו הרגלי עבודה עקביים, כדי שכל אחד ידע מה עושים ומתי והעשייה היומיומית תהפוך לזורמת וברורה.
+          - generic [ref=e713]:
+            - heading "תמיכה ושדרוגים" [level=3] [ref=e714]
+            - paragraph [ref=e715]: העסק גדל ואנחנו גדלים איתכם בשותפות לטווח ארוך - לכל שדרוג שיידרש או קשיי הסתגלות שתחוו, אנחנו כאן לתת מענה שוטף בשגרה.
+      - generic [ref=e727]:
+        - generic [ref=e728]:
+          - heading "הערכים" [level=2] [ref=e730]
+          - generic "שמובילים אותנו" [ref=e731]:
+            - heading [level=2] [ref=e733]:
+              - generic [ref=e734]:
+                - generic [ref=e735]: ש
+                - generic [ref=e736]: מ
+                - generic [ref=e737]: ו
+                - generic [ref=e738]: ב
+                - generic [ref=e739]: י
+                - generic [ref=e740]: ל
+                - generic [ref=e741]: י
+                - generic [ref=e742]: ם
+              - generic [ref=e743]:
+                - generic [ref=e744]: א
+                - generic [ref=e745]: ו
+                - generic [ref=e746]: ת
+                - generic [ref=e747]: נ
+                - generic [ref=e748]: ו
+        - generic [ref=e749]:
+          - generic [ref=e756]:
+            - heading "ביטחון מלא" [level=3] [ref=e757]
+            - paragraph [ref=e758]: שינויים ארגוניים מעלים הרבה חשש ואתגרים בתהליך - אנחנו כאן לתת את הביטחון והשקט הנפשי שכל אתגר בדרך ייפתר עד לתוצאה אופטימלית.
+          - generic [ref=e766]:
+            - heading "תמיכה מקיפה" [level=3] [ref=e767]
+            - paragraph [ref=e768]: החלק הכי חשוב באוטומציות וCRM הוא הטמעת המערכת בארגון שלכם. אנחנו כאן לוודא שההסתגלות תעבור בצורה חלקה וקלה.
+          - generic [ref=e781]:
+            - heading "יעילות עסקית" [level=3] [ref=e782]
+            - paragraph [ref=e783]: אנחנו מבינים עסקים ויודעים לראות את הדברים גם במאקרו וגם במיקרו - ומומחים בלקחת את הבלאגן בארגון ולחבר את החלקים בפאזל העסקי שלכם.
+          - generic [ref=e793]:
+            - heading "מקסום פוטנציאל" [level=3] [ref=e794]
+            - paragraph [ref=e795]: CRM אפקטיבי הוא כזה שמשקף את הצרכים שלכם, כדי שתוכלו לצמוח ולהגיע לפוטנציאל המלא של הארגון.
+          - generic [ref=e805]:
+            - heading "התאמה אישית" [level=3] [ref=e806]
+            - paragraph [ref=e807]: אנו מאמינים שלכל עסק יש DNA ייחודי, לכן, אנחנו מתאימים את המערכת אליכם ולא אתכם למערכת.
+      - generic [ref=e821]:
+        - heading "החזון שלנו" [level=2] [ref=e823]
+        - generic "להחזיר לבעלי חברות ועסקים את השליטה והביטחון בעסק ולהתאים את הכלים שיתנו את השקט והזמן להתמקד במה שחשוב בעסק ולהבטיח צמיחה איכותית." [ref=e824]:
+          - paragraph [ref=e826]:
+            - generic [ref=e827]:
+              - generic [ref=e828]: ל
+              - generic [ref=e829]: ה
+              - generic [ref=e830]: ח
+              - generic [ref=e831]: ז
+              - generic [ref=e832]: י
+              - generic [ref=e833]: ר
+            - generic [ref=e834]:
+              - generic [ref=e835]: ל
+              - generic [ref=e836]: ב
+              - generic [ref=e837]: ע
+              - generic [ref=e838]: ל
+              - generic [ref=e839]: י
+            - generic [ref=e840]:
+              - generic [ref=e841]: ח
+              - generic [ref=e842]: ב
+              - generic [ref=e843]: ר
+              - generic [ref=e844]: ו
+              - generic [ref=e845]: ת
+            - generic [ref=e846]:
+              - generic [ref=e847]: ו
+              - generic [ref=e848]: ע
+              - generic [ref=e849]: ס
+              - generic [ref=e850]: ק
+              - generic [ref=e851]: י
+              - generic [ref=e852]: ם
+            - generic [ref=e853]:
+              - generic [ref=e854]: א
+              - generic [ref=e855]: ת
+            - generic [ref=e856]:
+              - generic [ref=e857]: ה
+              - generic [ref=e858]: ש
+              - generic [ref=e859]: ל
+              - generic [ref=e860]: י
+              - generic [ref=e861]: ט
+              - generic [ref=e862]: ה
+            - generic [ref=e863]:
+              - generic [ref=e864]: ו
+              - generic [ref=e865]: ה
+              - generic [ref=e866]: ב
+              - generic [ref=e867]: י
+              - generic [ref=e868]: ט
+              - generic [ref=e869]: ח
+              - generic [ref=e870]: ו
+              - generic [ref=e871]: ן
+            - generic [ref=e872]:
+              - generic [ref=e873]: ב
+              - generic [ref=e874]: ע
+              - generic [ref=e875]: ס
+              - generic [ref=e876]: ק
+            - generic [ref=e877]:
+              - generic [ref=e878]: ו
+              - generic [ref=e879]: ל
+              - generic [ref=e880]: ה
+              - generic [ref=e881]: ת
+              - generic [ref=e882]: א
+              - generic [ref=e883]: י
+              - generic [ref=e884]: ם
+            - generic [ref=e885]:
+              - generic [ref=e886]: א
+              - generic [ref=e887]: ת
+            - generic [ref=e888]:
+              - generic [ref=e889]: ה
+              - generic [ref=e890]: כ
+              - generic [ref=e891]: ל
+              - generic [ref=e892]: י
+              - generic [ref=e893]: ם
+            - generic [ref=e894]:
+              - generic [ref=e895]: ש
+              - generic [ref=e896]: י
+              - generic [ref=e897]: ת
+              - generic [ref=e898]: נ
+              - generic [ref=e899]: ו
+            - generic [ref=e900]:
+              - generic [ref=e901]: א
+              - generic [ref=e902]: ת
+            - generic [ref=e903]:
+              - generic [ref=e904]: ה
+              - generic [ref=e905]: ש
+              - generic [ref=e906]: ק
+              - generic [ref=e907]: ט
+            - generic [ref=e908]:
+              - generic [ref=e909]: ו
+              - generic [ref=e910]: ה
+              - generic [ref=e911]: ז
+              - generic [ref=e912]: מ
+              - generic [ref=e913]: ן
+            - generic [ref=e914]:
+              - generic [ref=e915]: ל
+              - generic [ref=e916]: ה
+              - generic [ref=e917]: ת
+              - generic [ref=e918]: מ
+              - generic [ref=e919]: ק
+              - generic [ref=e920]: ד
+            - generic [ref=e921]:
+              - generic [ref=e922]: ב
+              - generic [ref=e923]: מ
+              - generic [ref=e924]: ה
+            - generic [ref=e925]:
+              - generic [ref=e926]: ש
+              - generic [ref=e927]: ח
+              - generic [ref=e928]: ש
+              - generic [ref=e929]: ו
+              - generic [ref=e930]: ב
+            - generic [ref=e931]:
+              - generic [ref=e932]: ב
+              - generic [ref=e933]: ע
+              - generic [ref=e934]: ס
+              - generic [ref=e935]: ק
+            - generic [ref=e936]:
+              - generic [ref=e937]: ו
+              - generic [ref=e938]: ל
+              - generic [ref=e939]: ה
+              - generic [ref=e940]: ב
+              - generic [ref=e941]: ט
+              - generic [ref=e942]: י
+              - generic [ref=e943]: ח
+            - generic [ref=e944]:
+              - generic [ref=e945]: צ
+              - generic [ref=e946]: מ
+              - generic [ref=e947]: י
+              - generic [ref=e948]: ח
+              - generic [ref=e949]: ה
+            - generic [ref=e950]:
+              - generic [ref=e951]: א
+              - generic [ref=e952]: י
+              - generic [ref=e953]: כ
+              - generic [ref=e954]: ו
+              - generic [ref=e955]: ת
+              - generic [ref=e956]: י
+              - generic [ref=e957]: ת
+              - generic [ref=e958]: .
+      - generic [ref=e965]:
+        - heading "הסיפור" [level=2] [ref=e967]
+        - heading "של" [level=2] [ref=e970]
+      - generic [ref=e972]:
+        - paragraph [ref=e974]: אנחנו ב-Enigma מתכננים ומטמיעים מערכות אוטומציה חכמות ומחזירים לכם את השקט לפעול ולהתפתח.
+        - generic [ref=e976]:
+          - paragraph [ref=e978]: אחרי שליווינו מאות עסקים מתחומים שונים, אנחנו מכירים את זה מקרוב - עסק מצליח מגיע לנקודה שבה ההצלחה עצמה הופכת למשקולת.
+          - paragraph [ref=e980]:
+            - text: ניהול לידים מסורבל, תיאומים שגוזלים שעות, מעקב תשלומים ידני ותחושה מתמדת של כיבוי שריפות. בנקודה הזו, הבחירה החשובה ביותר היא לא האם להטמיע מערכות, אלא עם מי לעשות זאת,
+            - strong [ref=e981]: לפני שהכל נופל בין הכיסאות.
+      - generic [ref=e985]:
+        - paragraph [ref=e987]: הקאצ׳ הוא, שאי אפשר "להלביש" מערכת על תהליכים שבורים.
+        - paragraph [ref=e989]: אניגמה נולדה מתוך הפילוסופיה הזו. אנחנו לא מתחילים בשאלה "איזו מערכת אתם רוצים?", אלא בשאלה –
+        - paragraph [ref=e991]: "\"איך העסק שלכם עובד ואיך הוא יכול לעבוד טוב יותר?\""
+      - generic [ref=e1000]:
+        - generic "אנחנו מנתחים את ה- DNA העסקי שלכם לעומק ומזהים את נקודות הכשל האמיתיות, משרטטים מחדש את זרימת המידע שתהווה בסיס יציב למערכות ורק בסוף, על התשתית הזו, אנחנו בונים ומטמיעים את מערכות ה-MRC והאוטומציה המותאמות לכם אישית, כמו כפפה ליד." [ref=e1001]:
+          - paragraph [ref=e1003]:
+            - generic [ref=e1004]:
+              - generic [ref=e1005]: א
+              - generic [ref=e1006]: נ
+              - generic [ref=e1007]: ח
+              - generic [ref=e1008]: נ
+              - generic [ref=e1009]: ו
+            - generic [ref=e1010]:
+              - generic [ref=e1011]: מ
+              - generic [ref=e1012]: נ
+              - generic [ref=e1013]: ת
+              - generic [ref=e1014]: ח
+              - generic [ref=e1015]: י
+              - generic [ref=e1016]: ם
+            - generic [ref=e1017]:
+              - generic [ref=e1018]: א
+              - generic [ref=e1019]: ת
+            - generic [ref=e1020]:
+              - generic [ref=e1021]: ה
+              - generic [ref=e1022]: "-"
+            - generic [ref=e1024]:
+              - generic [ref=e1025]: D
+              - generic [ref=e1026]: "N"
+              - generic [ref=e1027]: A
+            - generic [ref=e1028]:
+              - generic [ref=e1029]: ה
+              - generic [ref=e1030]: ע
+              - generic [ref=e1031]: ס
+              - generic [ref=e1032]: ק
+              - generic [ref=e1033]: י
+            - generic [ref=e1034]:
+              - generic [ref=e1035]: ש
+              - generic [ref=e1036]: ל
+              - generic [ref=e1037]: כ
+              - generic [ref=e1038]: ם
+            - generic [ref=e1039]:
+              - generic [ref=e1040]: ל
+              - generic [ref=e1041]: ע
+              - generic [ref=e1042]: ו
+              - generic [ref=e1043]: מ
+              - generic [ref=e1044]: ק
+            - generic [ref=e1045]:
+              - generic [ref=e1046]: ו
+              - generic [ref=e1047]: מ
+              - generic [ref=e1048]: ז
+              - generic [ref=e1049]: ה
+              - generic [ref=e1050]: י
+              - generic [ref=e1051]: ם
+            - generic [ref=e1052]:
+              - generic [ref=e1053]: א
+              - generic [ref=e1054]: ת
+            - generic [ref=e1055]:
+              - generic [ref=e1056]: נ
+              - generic [ref=e1057]: ק
+              - generic [ref=e1058]: ו
+              - generic [ref=e1059]: ד
+              - generic [ref=e1060]: ו
+              - generic [ref=e1061]: ת
+            - generic [ref=e1062]:
+              - generic [ref=e1063]: ה
+              - generic [ref=e1064]: כ
+              - generic [ref=e1065]: ש
+              - generic [ref=e1066]: ל
+            - generic [ref=e1067]:
+              - generic [ref=e1068]: ה
+              - generic [ref=e1069]: א
+              - generic [ref=e1070]: מ
+              - generic [ref=e1071]: י
+              - generic [ref=e1072]: ת
+              - generic [ref=e1073]: י
+              - generic [ref=e1074]: ו
+              - generic [ref=e1075]: ת
+              - generic [ref=e1076]: ","
+            - generic [ref=e1077]:
+              - generic [ref=e1078]: מ
+              - generic [ref=e1079]: ש
+              - generic [ref=e1080]: ר
+              - generic [ref=e1081]: ט
+              - generic [ref=e1082]: ט
+              - generic [ref=e1083]: י
+              - generic [ref=e1084]: ם
+            - generic [ref=e1085]:
+              - generic [ref=e1086]: מ
+              - generic [ref=e1087]: ח
+              - generic [ref=e1088]: ד
+              - generic [ref=e1089]: ש
+            - generic [ref=e1090]:
+              - generic [ref=e1091]: א
+              - generic [ref=e1092]: ת
+            - generic [ref=e1093]:
+              - generic [ref=e1094]: ז
+              - generic [ref=e1095]: ר
+              - generic [ref=e1096]: י
+              - generic [ref=e1097]: מ
+              - generic [ref=e1098]: ת
+            - generic [ref=e1099]:
+              - generic [ref=e1100]: ה
+              - generic [ref=e1101]: מ
+              - generic [ref=e1102]: י
+              - generic [ref=e1103]: ד
+              - generic [ref=e1104]: ע
+            - generic [ref=e1105]:
+              - generic [ref=e1106]: ש
+              - generic [ref=e1107]: ת
+              - generic [ref=e1108]: ה
+              - generic [ref=e1109]: ו
+              - generic [ref=e1110]: ו
+              - generic [ref=e1111]: ה
+            - generic [ref=e1112]:
+              - generic [ref=e1113]: ב
+              - generic [ref=e1114]: ס
+              - generic [ref=e1115]: י
+              - generic [ref=e1116]: ס
+            - generic [ref=e1117]:
+              - generic [ref=e1118]: י
+              - generic [ref=e1119]: צ
+              - generic [ref=e1120]: י
+              - generic [ref=e1121]: ב
+            - generic [ref=e1122]:
+              - generic [ref=e1123]: ל
+              - generic [ref=e1124]: מ
+              - generic [ref=e1125]: ע
+              - generic [ref=e1126]: ר
+              - generic [ref=e1127]: כ
+              - generic [ref=e1128]: ו
+              - generic [ref=e1129]: ת
+            - generic [ref=e1130]:
+              - generic [ref=e1131]: ו
+              - generic [ref=e1132]: ר
+              - generic [ref=e1133]: ק
+            - generic [ref=e1134]:
+              - generic [ref=e1135]: ב
+              - generic [ref=e1136]: ס
+              - generic [ref=e1137]: ו
+              - generic [ref=e1138]: ף
+              - generic [ref=e1139]: ","
+            - generic [ref=e1140]:
+              - generic [ref=e1141]: ע
+              - generic [ref=e1142]: ל
+            - generic [ref=e1143]:
+              - generic [ref=e1144]: ה
+              - generic [ref=e1145]: ת
+              - generic [ref=e1146]: ש
+              - generic [ref=e1147]: ת
+              - generic [ref=e1148]: י
+              - generic [ref=e1149]: ת
+            - generic [ref=e1150]:
+              - generic [ref=e1151]: ה
+              - generic [ref=e1152]: ז
+              - generic [ref=e1153]: ו
+              - generic [ref=e1154]: ","
+            - generic [ref=e1155]:
+              - generic [ref=e1156]: א
+              - generic [ref=e1157]: נ
+              - generic [ref=e1158]: ח
+              - generic [ref=e1159]: נ
+              - generic [ref=e1160]: ו
+            - generic [ref=e1161]:
+              - generic [ref=e1162]: ב
+              - generic [ref=e1163]: ו
+              - generic [ref=e1164]: נ
+              - generic [ref=e1165]: י
+              - generic [ref=e1166]: ם
+            - generic [ref=e1167]:
+              - generic [ref=e1168]: ו
+              - generic [ref=e1169]: מ
+              - generic [ref=e1170]: ט
+              - generic [ref=e1171]: מ
+              - generic [ref=e1172]: י
+              - generic [ref=e1173]: ע
+              - generic [ref=e1174]: י
+              - generic [ref=e1175]: ם
+            - generic [ref=e1176]:
+              - generic [ref=e1177]: א
+              - generic [ref=e1178]: ת
+            - generic [ref=e1179]:
+              - generic [ref=e1180]: מ
+              - generic [ref=e1181]: ע
+              - generic [ref=e1182]: ר
+              - generic [ref=e1183]: כ
+              - generic [ref=e1184]: ו
+              - generic [ref=e1185]: ת
+            - generic [ref=e1186]:
+              - generic [ref=e1187]: ה
+              - generic [ref=e1188]: "-"
+              - generic [ref=e1189]: M
+              - generic [ref=e1190]: R
+              - generic [ref=e1191]: C
+            - generic [ref=e1192]:
+              - generic [ref=e1193]: ו
+              - generic [ref=e1194]: ה
+              - generic [ref=e1195]: א
+              - generic [ref=e1196]: ו
+              - generic [ref=e1197]: ט
+              - generic [ref=e1198]: ו
+              - generic [ref=e1199]: מ
+              - generic [ref=e1200]: צ
+              - generic [ref=e1201]: י
+              - generic [ref=e1202]: ה
+            - generic [ref=e1203]:
+              - generic [ref=e1204]: ה
+              - generic [ref=e1205]: מ
+              - generic [ref=e1206]: ו
+              - generic [ref=e1207]: ת
+              - generic [ref=e1208]: א
+              - generic [ref=e1209]: מ
+              - generic [ref=e1210]: ו
+              - generic [ref=e1211]: ת
+            - generic [ref=e1212]:
+              - generic [ref=e1213]: ל
+              - generic [ref=e1214]: כ
+              - generic [ref=e1215]: ם
+            - generic [ref=e1216]:
+              - generic [ref=e1217]: א
+              - generic [ref=e1218]: י
+              - generic [ref=e1219]: ש
+              - generic [ref=e1220]: י
+              - generic [ref=e1221]: ת
+              - generic [ref=e1222]: ","
+            - generic [ref=e1223]:
+              - generic [ref=e1224]: כ
+              - generic [ref=e1225]: מ
+              - generic [ref=e1226]: ו
+            - generic [ref=e1227]:
+              - generic [ref=e1228]: כ
+              - generic [ref=e1229]: פ
+              - generic [ref=e1230]: פ
+              - generic [ref=e1231]: ה
+            - generic [ref=e1232]:
+              - generic [ref=e1233]: ל
+              - generic [ref=e1234]: י
+              - generic [ref=e1235]: ד
+              - generic [ref=e1236]: .
+        - paragraph [ref=e1238]: וכך, הכאוס התפעולי הופך ליעילות נוחה ומדידה ותחושת התסכול הופכת לשליטה וביטחון להמשיך ולצמוח.
+      - generic [ref=e1243]:
+        - generic [ref=e1244]:
+          - generic "נעים מאוד," [ref=e1245]:
+            - heading [level=2] [ref=e1247]:
+              - generic [ref=e1248]:
+                - generic [ref=e1249]: נ
+                - generic [ref=e1250]: ע
+                - generic [ref=e1251]: י
+                - generic [ref=e1252]: ם
+              - generic [ref=e1253]:
+                - generic [ref=e1254]: מ
+                - generic [ref=e1255]: א
+                - generic [ref=e1256]: ו
+                - generic [ref=e1257]: ד
+                - generic [ref=e1258]: ","
+          - heading "חלי פאר" [level=2] [ref=e1260]
+        - paragraph [ref=e1262]:
+          - strong [ref=e1263]: "בעלים של אניגמה, מרצה ומכשירה אנשי אוטומציה. עם ניסיון של כ-7 שנים בתחום ומעל 200 לקוחות עסקיים במצטבר, המומחיות והתשוקה שלי היא לפתור את האניגמה הכי גדולה של עסקים מצליחים:"
+        - paragraph [ref=e1265]:
+          - strong [ref=e1266]: הרגע שבו הצמיחה שלהם הופכת למשקולת שמאיימת להטביע אותם.
+        - generic [ref=e1267]:
+          - paragraph [ref=e1268]:
+            - text: אני משלבת רקע
+            - strong [ref=e1269]: בייעוץ אסטרטגי עם מומחיות טכנית עמוקה באוטומציה ומערכות CRM,
+            - text: כדי לגשר על הפער בין התוכניות הגדולות בעסק לביצוע היומיומי. הרקע הזה מאפשר לי לראות את תמונת המאקרו העסקית, ובמקביל לצלול לפרטים הקטנים של התהליך התפעולי.
+          - paragraph [ref=e1270]:
+            - text: כשהדגש שלי הוא לא רק לדעת "איך לוחצים על כפתורים", אלא
+            - strong [ref=e1271]: לגבש מתודולוגיה שלמה
+            - text: שתדע לתת לעסק מענה מקיף. באניגמה, אנחנו לא רק מתקינים מערכות, אלא עוברים על כל מחלקה בעסק – מכירות, שיווק, תפעול, פיננסים – ומגדירים תהליכים נכונים לפני הטמעת מערכות ואוטומציות. כי
+            - strong [ref=e1272]: אוטומציות בלי תהליכים נכונים זה כמו לבנות בית בלי יסודות.
+        - paragraph [ref=e1274]:
+          - generic [ref=e1275]: בסופו של יום, המטרה שלי היא להחזיר לכם את השליטה בעסק ולתת לכם את הכלים והשקט הנפשי להתמקד במה שחשוב ולהמשיך לצמוח.
+      - generic [ref=e1288]:
+        - generic [ref=e1289]:
+          - heading "מספרים" [level=2] [ref=e1291]
+          - generic "עלינו" [ref=e1292]:
+            - heading [level=2] [ref=e1294]:
+              - generic [ref=e1295]:
+                - generic [ref=e1296]: ע
+                - generic [ref=e1297]: ל
+                - generic [ref=e1298]: י
+                - generic [ref=e1299]: נ
+                - generic [ref=e1300]: ו
+        - generic [ref=e1311]:
+          - region "קרוסלה" [ref=e1312]:
+            - generic [ref=e1313]:
+              - group "1 מתוך 8" [ref=e1314]
+              - group "2 מתוך 8" [ref=e1318]
+              - group "3 מתוך 8" [ref=e1323]
+              - group "4 מתוך 8" [ref=e1327]
+              - group "5 מתוך 8" [ref=e1332]
+              - group "6 מתוך 8" [ref=e1336]
+              - group "7 מתוך 8" [ref=e1340]
+              - group "8 מתוך 8" [ref=e1345]
+          - button "הקודם" [ref=e1350] [cursor=pointer]
+          - button "הבא" [ref=e1355] [cursor=pointer]
+      - generic [ref=e1368]:
+        - generic [ref=e1369]:
+          - paragraph [ref=e1371]: מתאימים את
+          - paragraph [ref=e1373]: המערכת אליכם
+          - paragraph [ref=e1375]: ולא להפך
+        - paragraph [ref=e1377]:
+          - strong [ref=e1378]: אנחנו עובדים עם מגוון רחב של כלים, כדי להבטיח מענה מדויק לכל אתגר בהתאמה אישית מלאה.
+      - generic [ref=e1387]:
+        - generic [ref=e1388]:
+          - generic "המוצרים" [ref=e1389]:
+            - heading [level=2] [ref=e1391]:
+              - generic [ref=e1392]:
+                - generic [ref=e1393]: ה
+                - generic [ref=e1394]: מ
+                - generic [ref=e1395]: ו
+                - generic [ref=e1396]: צ
+                - generic [ref=e1397]: ר
+                - generic [ref=e1398]: י
+                - generic [ref=e1399]: ם
+          - heading "שלנו" [level=2] [ref=e1401]
+        - generic [ref=e1402]:
+          - heading "קורס אוטומציות" [level=3] [ref=e1405]
+          - paragraph [ref=e1407]: הדלת שלכם לעולם האוטומציות – קורס מסודר שיסביר לכם כל מה שצריך לדעת כדי להתחיל.
+          - link "קבלו גישה עכשיו" [ref=e1409] [cursor=pointer]:
+            - /url: http://ֿ
+        - generic [ref=e1417]:
+          - heading "קהילת האוטומציות" [level=3] [ref=e1420]
+          - paragraph [ref=e1422]: תישארו מעודכנים עם קהילת האוטומציות החינמית לבעלי עסקים עם כל הטיפים שאסור לפספס.
+          - link "הצטרפו עכשיו" [ref=e1424] [cursor=pointer]:
+            - /url: https://chat.whatsapp.com/CgKBxSKn4j086z2CtuLCXC?mode=gi_tֿ
+      - generic [ref=e1435]:
+        - generic [ref=e1437]:
+          - generic "שאלות" [ref=e1438]:
+            - heading [level=2] [ref=e1440]:
+              - generic [ref=e1441]:
+                - generic [ref=e1442]: ש
+                - generic [ref=e1443]: א
+                - generic [ref=e1444]: ל
+                - generic [ref=e1445]: ו
+                - generic [ref=e1446]: ת
+          - heading "ותשובות" [level=2] [ref=e1448]
+        - generic "Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys" [ref=e1451]:
+          - group [ref=e1452]:
+            - generic "איך אתם מבטיחים שהפתרון יתאים לעסק הספציפי שלי - ולא רק חבילה גנרית?" [ref=e1453] [cursor=pointer]
+            - region "איך אתם מבטיחים שהפתרון יתאים לעסק הספציפי שלי - ולא רק חבילה גנרית? מידה אחת לכולם כמעט אף פעם לא עובדת. אנחנו מתחילים בסשן גילוי להבנת היעדים המדויקים, המגבלות ותרבות הצוות שלך. כל המלצה מותאמת אישית, עם נימוקים ברורים ואפשרויות. אתה נשאר בשליטה, עם שקיפות בכל שלב – בלי הפתעות, לעולם." [ref=e1460]:
+              - paragraph [ref=e1462]: מידה אחת לכולם כמעט אף פעם לא עובדת. אנחנו מתחילים בסשן גילוי להבנת היעדים המדויקים, המגבלות ותרבות הצוות שלך. כל המלצה מותאמת אישית, עם נימוקים ברורים ואפשרויות. אתה נשאר בשליטה, עם שקיפות בכל שלב – בלי הפתעות, לעולם.
+          - group [ref=e1463]:
+            - generic "האם נאבד נתונים קריטיים או פונקציונליות במהלך המעבר?" [ref=e1464] [cursor=pointer]
+          - group [ref=e1471]:
+            - generic "הנתונים שלנו מפוזרים במערכות שונות - האם אוטומציה תעזור לנו באמת לראות את המספרים ולקבל החלטות חכמות יותר?" [ref=e1472] [cursor=pointer]
+          - group [ref=e1479]:
+            - generic "כמה זמן התהליך מאפיון עד סוף ההטמעה לוקח בממוצע?" [ref=e1480] [cursor=pointer]
+          - group [ref=e1487]:
+            - generic "אני חושש שזה הולך להיות פרויקט טכני ארוך ומסובך. הצוות שלי יוכל להתמודד עם זה?" [ref=e1488] [cursor=pointer]
+          - group [ref=e1495]:
+            - generic "היו לנו חוויות רעות עם יועצי טכנולוגיה שלא הבינו את העסק שלנו. איך אתם שונים?" [ref=e1496] [cursor=pointer]
+          - group [ref=e1503]:
+            - generic "איך אתם תומכים בנו אחרי שהפרויקט נמסר?" [ref=e1504] [cursor=pointer]
+        - generic [ref=e1511]:
+          - paragraph [ref=e1513]: "יש לכם שאלה שלא מופיעה כאן? צרו קשר ונסייע:"
+          - list [ref=e1515]:
+            - listitem [ref=e1516]:
+              - link "Info@enigma-s.com" [ref=e1517] [cursor=pointer]:
+                - /url: mailto:Info@enigma-s.com
+            - listitem [ref=e1524]:
+              - link "050-3070829" [ref=e1525] [cursor=pointer]:
+                - /url: https://wa.link/4hmbwe
+  - contentinfo [ref=e1541]:
+    - generic [ref=e1543]:
+      - generic [ref=e1544]:
+        - generic [ref=e1545]:
+          - paragraph [ref=e1547]: דברו איתנו
+          - generic [ref=e1548]:
+            - list [ref=e1550]:
+              - listitem [ref=e1551]:
+                - link "Info@enigma-s.com" [ref=e1552] [cursor=pointer]:
+                  - /url: mailto:Info@enigma-s.com
+              - listitem [ref=e1559]:
+                - link "050-3070829" [ref=e1560] [cursor=pointer]:
+                  - /url: https://wa.link/4hmbwe
+            - list [ref=e1567]:
+              - listitem [ref=e1568]:
+                - link [ref=e1569] [cursor=pointer]:
+                  - /url: https://www.instagram.com/enigma.solutions/
+              - listitem [ref=e1575]:
+                - link [ref=e1576] [cursor=pointer]:
+                  - /url: https://www.facebook.com/automationsulotion
+              - listitem [ref=e1582]
+        - generic [ref=e1586]:
+          - list [ref=e1588]:
+            - listitem [ref=e1589]:
+              - link "הצהרת נגישות" [ref=e1590] [cursor=pointer]:
+                - /url: https://enigma.jetdomains.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/
+            - listitem [ref=e1592]:
+              - link "תקנון ומדיניות הפרטיות" [ref=e1593] [cursor=pointer]:
+                - /url: https://enigma.jetdomains.co.il/privacy-policy/
+          - paragraph [ref=e1596]: © כל הזכויות שמורות לחלי פאר וחברת ENGIMA
+      - link "קבעו פגישת איפיון" [ref=e1601] [cursor=pointer]:
+        - /url: "#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI2MTkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+    - generic [ref=e1612]:
+      - figure [ref=e1613]:
+        - link [ref=e1614] [cursor=pointer]:
+          - /url: https://shiruziel.com/
+      - link "עיצוב ופיתוח אתר:" [ref=e1617] [cursor=pointer]:
+        - /url: https://shiruziel.com/
+  - link "פתח צ'אט וואטסאפ" [ref=e1619] [cursor=pointer]:
+    - /url: https://wa.me/0503070829
+  - generic [ref=e1622]: desktop

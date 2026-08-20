@@ -1,0 +1,147 @@
+/* ============================================================
+   PROCESS — four steps, one line that draws itself.
+   ============================================================ */
+
+.process {
+  position: relative;
+  height: 300vh;
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg-soft) 40%, var(--bg-soft) 100%);
+}
+.process-pin {
+  position: sticky;
+  top: 0;
+  height: 100svh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: clamp(24px, 5vh, 54px);
+  padding-block: 8vh 6vh;
+}
+.process-head {
+  position: relative;
+  z-index: 2;
+  width: min(100% - 3rem, 1320px);
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  text-align: center;
+}
+.process-head h2 {
+  font-size: var(--t-h2);
+}
+.process-head p {
+  color: var(--ink-500);
+  font-size: var(--t-lead);
+  max-width: 46ch;
+}
+
+.process-track {
+  position: relative;
+  z-index: 1;
+  width: min(100% - 3rem, 1320px);
+  margin-inline: auto;
+  height: clamp(300px, 44vh, 420px);
+  perspective: 1200px;
+}
+.process-line {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.step {
+  position: absolute;
+  inset-inline-start: var(--x);
+  top: var(--y);
+  translate: 50% 0;
+  width: clamp(200px, 21vw, 268px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  text-align: center;
+  will-change: transform;
+}
+.step-bead {
+  width: 66px;
+  height: 66px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--surface);
+  box-shadow: var(--e3), inset 0 0 0 1.5px var(--gum-100);
+  font-family: var(--font-display-face), sans-serif;
+  font-weight: 800;
+  font-size: 1.3rem;
+  letter-spacing: -0.02em;
+  color: var(--gum-500);
+  position: relative;
+  flex: none;
+}
+.step-bead::after {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  border-radius: 50%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(226, 58, 91, 0.22) 0%, rgba(226, 58, 91, 0) 70%);
+  opacity: 0;
+  transition: opacity 0.35s var(--ease-out);
+}
+.step.is-live .step-bead::after { opacity: 1; }
+.step.is-live .step-bead {
+  color: #fff;
+  background: linear-gradient(155deg, var(--gum-400), var(--gum-600));
+  box-shadow: var(--e3), 0 10px 26px rgba(226, 58, 91, 0.34);
+}
+.step-card {
+  background: var(--surface);
+  border-radius: 20px;
+  padding: 16px 18px;
+  box-shadow: var(--e2), inset 0 0 0 1px var(--line);
+}
+.step-card h3 {
+  font-size: 1.08rem;
+  letter-spacing: -0.015em;
+  margin-bottom: 6px;
+}
+.step-card p {
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--ink-500);
+}
+
+@media (max-width: 900px) {
+  .process { height: auto; }
+  .process-pin {
+    position: relative;
+    height: auto;
+    overflow: visible;
+    padding-block: 12vh 10vh;
+    gap: 6vh;
+  }
+  .process-track {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    perspective: none;
+  }
+  .process-line { display: none; }
+  .step {
+    position: relative;
+    inset-inline-start: auto;
+    top: auto;
+    translate: 0 0;
+    width: 100%;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 14px;
+    text-align: start;
+  }
+  .step-bead { width: 52px; height: 52px; font-size: 1.05rem; }
+  .step-card { flex: 1; }
+}

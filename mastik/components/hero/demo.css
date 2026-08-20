@@ -1,0 +1,544 @@
+/* ============================================================
+   Demo screens — a believable Mastik product UI, drawn at a
+   fixed 1160x740 canvas and scaled by the parent card.
+   ============================================================ */
+
+.dm {
+  width: 1160px;
+  height: 740px;
+  display: flex;
+  background: var(--surface-2);
+  font-family: var(--font-body-face), sans-serif;
+  color: var(--ink-900);
+  font-size: 14px;
+  line-height: 1.45;
+  overflow: hidden;
+  user-select: none;
+}
+
+/* ---- sidebar ---- */
+.dm-side {
+  width: 216px;
+  flex: none;
+  background: #fff;
+  border-inline-start: 1px solid var(--line);
+  padding: 20px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+.dm-brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-weight: 700;
+  font-size: 15px;
+}
+.dm-brand i {
+  width: 28px;
+  height: 28px;
+  border-radius: 9px;
+  background: linear-gradient(150deg, var(--gum-400), var(--gum-600));
+  display: grid;
+  place-items: center;
+  color: #fff;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 15px;
+  box-shadow: 0 4px 10px rgba(226, 58, 91, 0.35);
+}
+.dm-navlabel {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-300);
+  letter-spacing: 0.06em;
+}
+.dm-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.dm-nav b {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 11px;
+  border-radius: 11px;
+  font-weight: 500;
+  color: var(--ink-500);
+  font-size: 13.5px;
+}
+.dm-nav b.on {
+  background: var(--gum-050);
+  color: var(--gum-600);
+  font-weight: 700;
+}
+.dm-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 5px;
+  background: currentColor;
+  opacity: 0.22;
+  flex: none;
+}
+.dm-nav b.on .dm-dot {
+  opacity: 1;
+}
+.dm-upsell {
+  margin-top: auto;
+  border-radius: 14px;
+  padding: 14px;
+  background: linear-gradient(160deg, var(--ink-800), var(--ink-700));
+  color: #fff;
+}
+.dm-upsell p {
+  font-size: 12px;
+  opacity: 0.75;
+  margin: 4px 0 10px;
+  line-height: 1.4;
+}
+.dm-upsell span {
+  display: block;
+  text-align: center;
+  background: var(--gum-500);
+  border-radius: 8px;
+  padding: 7px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* ---- main ---- */
+.dm-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.dm-top {
+  height: 58px;
+  flex: none;
+  background: #fff;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 0 20px;
+}
+.dm-search {
+  flex: 1;
+  max-width: 380px;
+  height: 34px;
+  border-radius: 10px;
+  background: var(--bg-soft);
+  display: flex;
+  align-items: center;
+  padding: 0 12px;
+  color: var(--ink-300);
+  font-size: 13px;
+}
+.dm-ava {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(140deg, var(--gum-300), var(--gum-600));
+  flex: none;
+}
+.dm-bell {
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  background: var(--bg-soft);
+  flex: none;
+  position: relative;
+}
+.dm-bell::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  inset-inline-end: 6px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--gum-500);
+  box-shadow: 0 0 0 2px #fff;
+}
+.dm-body {
+  flex: 1;
+  min-height: 0;
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  overflow: hidden;
+}
+.dm-hello {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.dm-hello h4 {
+  font-family: var(--font-display-face), sans-serif;
+  font-size: 21px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+.dm-hello small {
+  color: var(--ink-300);
+  font-size: 12.5px;
+}
+.dm-chip {
+  padding: 6px 12px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: inset 0 0 0 1px var(--line);
+  font-size: 12.5px;
+  color: var(--ink-500);
+  font-weight: 600;
+}
+
+.dm-kpis {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+.dm-kpi {
+  background: #fff;
+  border-radius: 15px;
+  padding: 14px 16px 13px;
+  box-shadow: var(--e1);
+}
+.dm-kpi h5 {
+  font-size: 12.5px;
+  color: var(--ink-400);
+  font-weight: 600;
+  margin: 0 0 6px;
+}
+.dm-kpi strong {
+  font-family: var(--font-display-face), sans-serif;
+  font-size: 25px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  display: block;
+}
+.dm-delta {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #1d9d5c;
+  margin-top: 5px;
+  display: inline-block;
+}
+.dm-delta.down {
+  color: var(--gum-500);
+}
+
+.dm-grid {
+  min-height: 232px;
+  display: grid;
+  grid-template-columns: 1.55fr 1fr;
+  gap: 14px;
+  flex: 1;
+  min-height: 0;
+}
+.dm-card {
+  background: #fff;
+  border-radius: 17px;
+  padding: 17px 18px;
+  box-shadow: var(--e1);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.dm-card > header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+.dm-card h5 {
+  font-size: 14.5px;
+  font-weight: 700;
+}
+.dm-seg {
+  display: flex;
+  background: var(--bg-soft);
+  border-radius: 8px;
+  padding: 3px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--ink-400);
+}
+.dm-seg span {
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+.dm-seg span.on {
+  background: #fff;
+  color: var(--ink-800);
+  box-shadow: var(--e1);
+}
+
+.dm-bars {
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  min-height: 0;
+}
+.dm-bars > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 7px;
+  height: 100%;
+  justify-content: flex-end;
+}
+.dm-bars u {
+  width: 100%;
+  max-width: 26px;
+  border-radius: 6px 6px 3px 3px;
+  background: var(--bg-deep);
+  display: block;
+}
+.dm-bars .hi u {
+  background: linear-gradient(180deg, var(--gum-400), var(--gum-600));
+  box-shadow: 0 6px 14px rgba(226, 58, 91, 0.32);
+}
+.dm-bars small {
+  font-size: 10.5px;
+  color: var(--ink-300);
+}
+
+.dm-donut {
+  display: grid;
+  place-items: center;
+  flex: 1;
+  min-height: 0;
+}
+.dm-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12px;
+  font-size: 12.5px;
+  color: var(--ink-500);
+}
+.dm-legend div {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.dm-legend i {
+  width: 9px;
+  height: 9px;
+  border-radius: 3px;
+  flex: none;
+}
+.dm-legend b {
+  margin-inline-start: auto;
+  color: var(--ink-800);
+}
+
+.dm-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12.5px;
+}
+.dm-table th {
+  text-align: start;
+  color: var(--ink-300);
+  font-weight: 600;
+  font-size: 11.5px;
+  padding-bottom: 9px;
+}
+.dm-table td {
+  padding: 9px 0;
+  border-top: 1px solid var(--line);
+  color: var(--ink-500);
+}
+.dm-table td:first-child {
+  color: var(--ink-900);
+  font-weight: 600;
+}
+.dm-tag {
+  padding: 3px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+}
+.dm-tag.g {
+  background: #e6f6ee;
+  color: #1d7a4c;
+}
+.dm-tag.p {
+  background: var(--gum-050);
+  color: var(--gum-600);
+}
+.dm-tag.y {
+  background: #fdf3e0;
+  color: #a9700d;
+}
+
+/* ---- automation canvas ---- */
+.dm-flow {
+  flex: 1;
+  min-height: 460px;
+  position: relative;
+  background: #fff;
+  border-radius: 17px;
+  box-shadow: var(--e1);
+  overflow: hidden;
+  background-image: radial-gradient(var(--bg-deep) 1.4px, transparent 1.4px);
+  background-size: 22px 22px;
+}
+.dm-node {
+  position: absolute;
+  width: 196px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 13px;
+  box-shadow: var(--e2);
+  border: 1px solid var(--line);
+}
+.dm-node.live {
+  border-color: var(--gum-300);
+  box-shadow: var(--e2), 0 0 0 4px rgba(226, 58, 91, 0.1);
+}
+.dm-node i {
+  width: 26px;
+  height: 26px;
+  border-radius: 8px;
+  display: grid;
+  place-items: center;
+  background: var(--gum-050);
+  color: var(--gum-600);
+  font-style: normal;
+  font-size: 13px;
+  font-weight: 800;
+}
+.dm-node h6 {
+  font-size: 13px;
+  font-weight: 700;
+  margin: 9px 0 3px;
+}
+.dm-node p {
+  font-size: 11.5px;
+  color: var(--ink-400);
+  line-height: 1.35;
+}
+.dm-wire {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+/* ---- chatbot ---- */
+.dm-chat {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 14px;
+  min-height: 0;
+}
+.dm-thread {
+  background: #fff;
+  border-radius: 17px;
+  box-shadow: var(--e1);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+}
+.dm-msg {
+  max-width: 74%;
+  padding: 11px 14px;
+  border-radius: 16px;
+  font-size: 13.5px;
+  line-height: 1.5;
+}
+.dm-msg.bot {
+  background: var(--bg-soft);
+  border-start-start-radius: 5px;
+  align-self: flex-start;
+}
+.dm-msg.me {
+  background: var(--gum-500);
+  color: #fff;
+  border-start-end-radius: 5px;
+  align-self: flex-end;
+}
+.dm-typing {
+  display: flex;
+  gap: 4px;
+  align-self: flex-start;
+  background: var(--bg-soft);
+  padding: 13px 15px;
+  border-radius: 16px;
+  border-start-start-radius: 5px;
+}
+.dm-typing i {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--ink-300);
+  display: block;
+}
+.dm-quick {
+  margin-top: auto;
+  display: flex;
+  gap: 7px;
+  flex-wrap: wrap;
+}
+.dm-quick span {
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--gum-600);
+  background: var(--gum-050);
+  box-shadow: inset 0 0 0 1px var(--gum-100);
+}
+.dm-input {
+  height: 42px;
+  border-radius: 12px;
+  background: var(--bg-soft);
+  display: flex;
+  align-items: center;
+  padding: 0 14px;
+  color: var(--ink-300);
+  font-size: 13px;
+}
+.dm-intent {
+  background: #fff;
+  border-radius: 17px;
+  box-shadow: var(--e1);
+  padding: 17px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+.dm-meter {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--bg-deep);
+  overflow: hidden;
+  margin-top: 6px;
+}
+.dm-meter span {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  background: linear-gradient(90deg, var(--gum-400), var(--gum-600));
+}
+.dm-intent-row > div {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12.5px;
+}
+.dm-intent-row b {
+  font-weight: 700;
+}
+.dm-intent-row span {
+  color: var(--ink-400);
+}

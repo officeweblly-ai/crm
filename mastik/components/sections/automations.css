@@ -1,0 +1,232 @@
+/* ============================================================
+   AUTOMATIONS — everything the business already uses, flying in
+   and locking onto one hub.
+   ============================================================ */
+
+.automations {
+  height: 320vh;
+  background: var(--bg);
+}
+.auto-pin {
+  position: sticky;
+  top: 0;
+  height: 100svh;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+  align-items: center;
+  gap: 40px;
+  width: min(100% - 3rem, 1400px);
+  margin-inline: auto;
+}
+.auto-bg {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(44% 40% at 68% 48%, rgba(226, 58, 91, 0.12) 0%, rgba(226, 58, 91, 0) 70%),
+    radial-gradient(40% 36% at 26% 30%, rgba(86, 58, 229, 0.1) 0%, rgba(86, 58, 229, 0) 70%);
+}
+
+.auto-copy {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+}
+.auto-copy h2 {
+  font-size: var(--t-h2);
+}
+.auto-copy p {
+  font-size: var(--t-lead);
+  color: var(--ink-500);
+  max-width: 42ch;
+}
+.auto-facts {
+  display: flex;
+  gap: 26px;
+  margin-top: 8px;
+}
+.auto-facts div {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.auto-facts b {
+  font-family: var(--font-display-face), sans-serif;
+  font-size: 1.9rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  color: var(--ink-900);
+  line-height: 1;
+}
+.auto-facts span {
+  font-size: 13px;
+  color: var(--ink-400);
+  font-weight: 600;
+}
+
+/* ---- the orbit ---- */
+.auto-orbit {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 620px);
+  aspect-ratio: 1;
+  margin-inline: auto;
+  justify-self: center;
+}
+.auto-wires {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+}
+.auto-ring {
+  position: absolute;
+  inset: 16%;
+  border-radius: 50%;
+  border: 1.5px dashed var(--line-strong);
+}
+.auto-ring::after {
+  content: "";
+  position: absolute;
+  inset: -13%;
+  border-radius: 50%;
+  border: 1.5px solid var(--line);
+}
+
+.auto-hub {
+  position: absolute;
+  inset-inline-start: 50%;
+  top: 50%;
+  translate: 50% -50%;
+  width: 31%;
+  aspect-ratio: 1;
+  border-radius: 30%;
+  background: var(--surface);
+  box-shadow: var(--e4), inset 0 0 0 1px var(--line);
+  display: grid;
+  place-items: center;
+  padding: 12%;
+  will-change: transform;
+}
+.auto-hub img {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 8px 18px rgba(226, 58, 91, 0.3));
+}
+.auto-hub-pulse {
+  position: absolute;
+  inset: -14%;
+  border-radius: 34%;
+  background: radial-gradient(50% 50% at 50% 50%, rgba(226, 58, 91, 0.24) 0%, rgba(226, 58, 91, 0) 70%);
+  pointer-events: none;
+}
+
+.auto-node {
+  position: absolute;
+  inset-inline-start: var(--x);
+  top: var(--y);
+  translate: 50% -50%;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 14px 9px 11px;
+  border-radius: var(--radius-pill);
+  background: var(--surface);
+  box-shadow: var(--e2), inset 0 0 0 1px var(--line);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink-800);
+  white-space: nowrap;
+  will-change: transform;
+}
+.auto-node i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex: none;
+}
+.tone-green i { background: var(--green); }
+.tone-violet i { background: var(--violet); }
+.tone-amber i { background: var(--amber); }
+.tone-coral i { background: var(--coral); }
+
+/* ---- the "ask and it happens" beat ---- */
+.auto-ask {
+  position: absolute;
+  z-index: 4;
+  inset-inline-start: 4%;
+  top: 7%;
+  max-width: 250px;
+  padding: 12px 15px;
+  border-radius: 18px;
+  border-start-end-radius: 6px;
+  background: var(--ink-900);
+  color: #fff;
+  font-size: 13.5px;
+  line-height: 1.45;
+  box-shadow: var(--e3);
+  will-change: transform;
+}
+.auto-answer {
+  position: absolute;
+  z-index: 4;
+  inset-inline-end: 0%;
+  bottom: 4%;
+  width: 232px;
+  padding: 15px;
+  border-radius: 18px;
+  background: var(--surface);
+  box-shadow: var(--e3), inset 0 0 0 1px var(--line);
+  will-change: transform;
+}
+.auto-answer h4 {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 3px;
+}
+.auto-answer small {
+  font-size: 11.5px;
+  color: var(--ink-400);
+}
+.auto-answer .bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 62px;
+  margin-top: 12px;
+}
+.auto-answer .bars u {
+  flex: 1;
+  border-radius: 4px 4px 2px 2px;
+  background: var(--bg-deep);
+  display: block;
+}
+.auto-answer .bars u.hi {
+  background: linear-gradient(180deg, var(--gum-400), var(--gum-600));
+}
+
+@media (max-width: 1100px) {
+  .auto-pin { grid-template-columns: 1fr; gap: 18px; align-content: center; }
+  .auto-copy { align-items: center; text-align: center; }
+  .auto-copy p { max-width: 38ch; }
+  .auto-orbit { width: min(92%, 460px); }
+  .auto-ask { inset-inline-start: 0; top: 2%; max-width: 210px; }
+  .auto-answer { width: 190px; bottom: 0; }
+}
+
+@media (max-width: 900px) {
+  .automations { height: auto; }
+  .auto-pin {
+    position: relative;
+    height: auto;
+    padding: 12vh 0 12vh;
+    overflow: visible;
+  }
+  .auto-facts { justify-content: center; }
+  .auto-ask, .auto-answer { display: none; }
+  .auto-node { font-size: 11.5px; padding: 7px 11px 7px 9px; }
+}
